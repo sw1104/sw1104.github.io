@@ -100,14 +100,14 @@ analytics:
 author:
   name: "Sangwoo Lee" # 블로그 닉네임
   avatar: "/assets/images/meee.png" # 블로그 프로필 사진
-    bio              : "Sangwoo Lee"
+  bio              : "Sangwoo Lee"
   location         : "Seoul, Korea"
-  email            : "sangw1104@gmail.com"
+  # email            : "sangw1104@gmail.com"
 
   links: # 사이트 링크
-    # - label: "Email"
-      # icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:sangw1104@gmail.com"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:sangw1104@gmail.com"
 #     - label: "Website"
 #       icon: "fas fa-fw fa-link"
 #       # url: "https://your-website.com"
