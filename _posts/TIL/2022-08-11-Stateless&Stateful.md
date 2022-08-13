@@ -7,7 +7,7 @@ categories:
 tags:
   - [network]
 
-permalink: /TIL/제목/
+permalink: /TIL/Stateless & Statefull/
 
 toc: true
 toc_sticky: true

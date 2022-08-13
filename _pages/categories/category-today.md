@@ -1,9 +1,9 @@
 ---
-title: "today.."
+title: "today"
 layout: category
-permalink: /categories/today../
+permalink: /categories/today/
 author_profile: true
-taxonomy: today..
+taxonomy: today
 sidebar:
   nav: "categories"
 ---

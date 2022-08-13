@@ -7,7 +7,7 @@ categories:
 tags:
   - [network]
 
-permalink: /TIL/RESTful-API/
+permalink: /TIL/RESTful API/
 
 toc: true
 toc_sticky: true

@@ -102,7 +102,7 @@ author:
   avatar: "/assets/images/meee.png" # 블로그 프로필 사진
   #   bio              : "hi all!"
   location         : "Seoul, Korea"
-  email            : "sangw1104@gmail.com"
+  # email            : "sangw1104@gmail.com"
 
   links: # 사이트 링크
     - label: "Email"
