@@ -100,9 +100,9 @@ analytics:
 author:
   name: "Sangwoo Lee" # 블로그 닉네임
   avatar: "/assets/images/meee.png" # 블로그 프로필 사진
-  #   bio              : "hi all!"
-  # location         : "Seoul, Korea"
-  # email            : "youremailhere@xxxxxx.com"
+    bio              : "hi all!"
+  location         : "Seoul, Korea"
+  email            : "sangw1104@gmail.com"
 
   links: # 사이트 링크
     - label: "Email"
@@ -243,9 +243,9 @@ whitelist:
 category_archive:
   type: liquid
   path: /categories/
-# tag_archive:
-#   type: liquid
-#   path: /tags/
+tag_archive:
+  type: liquid
+  path: /tags/
 
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
