@@ -100,7 +100,7 @@ analytics:
 author:
   name: "Sangwoo Lee" # 블로그 닉네임
   avatar: "/assets/images/meee.png" # 블로그 프로필 사진
-    bio              : "hi all!"
+  #   bio              : "hi all!"
   location         : "Seoul, Korea"
   email            : "sangw1104@gmail.com"
 
