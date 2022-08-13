@@ -101,7 +101,7 @@ author:
   name: "Sangwoo Lee" # 블로그 닉네임
   avatar: "/assets/images/meee.png" # 블로그 프로필 사진
   # bio              : "Sangwoo Lee"
-  email            : "Sangwoo Lee"
+  # email            : "Sangwoo Lee"
   location         : "Seoul, Korea"
 
   links: # 사이트 링크
