@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: https://choiiis.github.io/
+    url: https://sw1104.github.io/
 
   - title: "About"
     url: /about/
@@ -18,8 +18,8 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "Categories1"
-    url: /categories/categories1/
+  - title: "today.."
+    url: /categories/today../
   - title: "Categories2"
     url: /categories/categories2/
   - title: "Categories3"
