@@ -3,11 +3,11 @@ title: "[TIL]Authentication & Authorization "
 excerpt: "Authentication & Authorization에 대해.."
 
 categories:
-  - TIL
+  - network
 tags:
-  - [network]
+  - [TIL,network]
 
-permalink: /TIL/Authentication & Authorization/
+permalink: /network/Authentication & Authorization/
 
 toc: true
 toc_sticky: true

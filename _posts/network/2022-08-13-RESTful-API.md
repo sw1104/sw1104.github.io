@@ -1,13 +1,13 @@
 ---
-title: "RESTful API"
+title: "[TIL]RESTful API"
 excerpt: "RESTful에 대해.."
 
 categories:
-  - TIL
+  - network
 tags:
-  - [network]
+  - [TIL,network]
 
-permalink: /TIL/RESTful API/
+permalink: /network/RESTful API/
 
 toc: true
 toc_sticky: true

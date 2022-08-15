@@ -20,9 +20,13 @@ main:
 categories:
   - title: "today"
     url: /categories/today/
-  - title: "Algorithm"
-    url: /categories/Algorithm/
   - title: "memoir"
     url: /categories/memoir/
-  - title: "TIL"
-    url: /categories/TIL/
+  - title: "Algorithm"
+    url: /categories/Algorithm/
+  - title: "Node.js"
+    url: /categories/Node.js/
+  - title: "DATABASE"
+    url: /categories/DATABASE/
+  - title: "network"
+    url: /categories/network/

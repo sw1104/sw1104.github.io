@@ -1,13 +1,13 @@
 ---
-title: "HTTP Method"
+title: "[TIL]HTTP Method"
 excerpt: "HTTP Method에 대해.."
 
 categories:
-  - TIL
+  - network
 tags:
-  - [network]
+  - [TIL,network]
 
-permalink: /TIL/HTTP Method/
+permalink: /network/HTTP Method/
 
 toc: true
 toc_sticky: true
