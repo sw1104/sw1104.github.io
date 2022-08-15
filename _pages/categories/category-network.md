@@ -1,9 +1,9 @@
 ---
-title: "TIL"
+title: "network"
 layout: category
-permalink: /categories/TIL/
+permalink: /categories/network/
 author_profile: true
-taxonomy: TIL
+taxonomy: network
 sidebar:
   nav: "categories"
 ---
