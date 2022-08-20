@@ -1,11 +1,11 @@
 ---
-title: "[TIL]HTTP Method"
+title: "HTTP Method"
 excerpt: "HTTP Method에 대해.."
 
 categories:
   - network
 tags:
-  - [TIL,network]
+  - [network]
 
 permalink: /network/HTTP Method/
 

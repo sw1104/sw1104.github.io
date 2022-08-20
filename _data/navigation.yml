@@ -18,8 +18,8 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "today"
-    url: /categories/today/
+  - title: "TIL"
+    url: /categories/TIL/
   - title: "memoir"
     url: /categories/memoir/
   - title: "Algorithm"

@@ -1,11 +1,11 @@
 ---
-title: "[TIL]Stateless와 Statefull"
+title: "Stateless와 Statefull"
 excerpt: "stateless와 statefull의 차이"
 
 categories:
   - network
 tags:
-  - [TIL,network]
+  - [network]
 
 permalink: /network/Stateless & Statefull/
 

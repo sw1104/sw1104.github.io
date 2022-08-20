@@ -1,11 +1,11 @@
 ---
-title: "[TIL]RESTful API"
+title: "RESTful API"
 excerpt: "RESTful에 대해.."
 
 categories:
   - network
 tags:
-  - [TIL,network]
+  - [network]
 
 permalink: /network/RESTful API/
 

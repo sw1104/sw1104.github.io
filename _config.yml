@@ -19,7 +19,7 @@ minimal_mistakes_skin: "plum" # "default" "air", "aqua", ...
 
 # Site Settings
 locale: "ko-KR" #"en-US"
-title: "느려도 괜찮아" # 상단 헤더에 보이는 블로그 명
+title: "내 인생의 주인공은 나야" # 상단 헤더에 보이는 블로그 명
 title_separator: "&#124;"
 # title_separator: "이게뭐지"
 subtitle: "Sangwoo" # site tagline that appears below site title in masthead

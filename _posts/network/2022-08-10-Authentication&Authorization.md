@@ -1,11 +1,11 @@
 ---
-title: "[TIL]Authentication & Authorization "
+title: "Authentication & Authorization "
 excerpt: "Authentication & Authorization에 대해.."
 
 categories:
   - network
 tags:
-  - [TIL,network]
+  - [network]
 
 permalink: /network/Authentication & Authorization/
 

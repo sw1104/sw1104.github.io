@@ -1,9 +1,9 @@
 ---
-title: "today"
+title: "TIL"
 layout: category
-permalink: /categories/today/
+permalink: /categories/TIL/
 author_profile: true
-taxonomy: today
+taxonomy: TIL
 sidebar:
   nav: "categories"
 ---
