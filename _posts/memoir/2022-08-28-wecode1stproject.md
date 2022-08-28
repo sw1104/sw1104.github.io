@@ -1,5 +1,5 @@
 ---
-title: "[memoir] wecode 1st project 회고록"
+title: "[memoir] wecode 1st project & 6주차 회고록"
 excerpt: "1차 프로젝트 회고록"
 
 categories:
