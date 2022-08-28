@@ -1,13 +1,13 @@
 ---
-title: "[memoir] wecode 5주차 회고록"
-excerpt: "1차 프로젝트 1주차"
+title: "[memoir] wecode 6주차 회고록"
+excerpt: "1차 프로젝트 2주차"
 
 categories:
   - memoir
 tags:
   - [memoir, wecode]
 
-permalink: /memoir/[memoir] wecode 5주차 회고록/
+permalink: /memoir/[memoir] wecode 6주차 회고록/
 
 toc: true
 toc_sticky: true
