@@ -48,7 +48,7 @@ last_modified_at: 2022-08-28
 
 - community tool
 
- `slack`, `Trello`, `Zoom`, `Gether`, `ngrok`
+ `slack`, `Trello`, `Zoom`, `Gather`, `ngrok`
 
 ## 내가 맡은 부분
 
