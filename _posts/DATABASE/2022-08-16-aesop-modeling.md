@@ -3,11 +3,11 @@ title: "Aesop 향수 카테고리 모델링"
 excerpt: "1차 프로젝트 사이트인 Aesop 사이트 향수 카테고리 모델링"
 
 categories:
-    - wecode_1st_project
+    - DATABASE
 tags:
     - [DATABASE, ERD, wecode]
 
-permalink: /wecode_1st_project/Aesop 향수 카테고리 모델링/
+permalink: /DATABASE/Aesop 향수 카테고리 모델링/
 
 toc: true
 toc_sticky: true
