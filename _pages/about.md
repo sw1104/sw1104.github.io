@@ -9,25 +9,16 @@ comments: false
 
 ****
 # 이상우
-****
-# Backend Developer
+## Backend Developer
 ****
 #### Phone
-
 010-5660-3303
-
 #### E-mail
-
 [sangw1104@gmail.com](sangw1104@gmail.com)
-
 #### Github
-
 [https://github.com/sw1104](https://github.com/sw1104)
-
 #### Blog
-
 [https://sw1104.github.io](https://sw1104.github.io)
-
 ****
 # Skills
 ### Back-End
