@@ -7,15 +7,25 @@ comments: false
 
 > 매일매일 성장하는 즐거움으로 살아가는 개발자 입니다.
 ----
+
 # 이상우
+
 # Backend Developer
+
 ### Phone
+
 > 010-5660-3303
+
 ### E-mail
+
     sangw1104@gmail.com
+
 ### Github
+
     https://github.com/sw1104
+
 ### Blog
+
     https://sw1104.github.io/
 
 # Skills
