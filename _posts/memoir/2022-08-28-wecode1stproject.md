@@ -28,6 +28,7 @@ last_modified_at: 2022-08-28
 
 [BACKEND GITHUB](https://github.com/wecode-bootcamp-korea/36-1st-Usopp-backend)
 
+[프로젝트 시연 영상](https://www.youtube.com/watch?v=n2kL24FnHsE)
 ---
 
 # Facts
