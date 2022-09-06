@@ -29,6 +29,9 @@ last_modified_at: 2022-08-28
 [BACKEND GITHUB](https://github.com/wecode-bootcamp-korea/36-1st-Usopp-backend)
 
 [프로젝트 시연 영상](https://www.youtube.com/watch?v=n2kL24FnHsE)
+
+<iframe width="600" height="390" src="https://www.youtube.com/embed/n2kL24FnHsE" title="이솝 홈페이지 클론 코딩" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 
 # Facts
