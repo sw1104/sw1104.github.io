@@ -9,7 +9,7 @@ comments: false
 > 매일매일 성장하는 즐거움으로 살아가는 개발자 입니다.
 
 ****
-# [이상우](https://sw1104.github.io/Life/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EB%90%98%EA%B8%B0%EB%A1%9C%20%ED%95%9C%20%EC%9D%B4%EC%9C%A0/)
+# [이상우](https://sw1104.github.io/why/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EB%90%98%EA%B8%B0%EB%A1%9C%20%ED%95%9C%20%EC%9D%B4%EC%9C%A0/)
 ## Backend Developer
 ****
 ##### Phone : 010-5660-3303
