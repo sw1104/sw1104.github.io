@@ -37,7 +37,7 @@ last_modified_at: 2022-09-08
 - FRONT END 4명
 - BACK END 3명
 
----s
+---
 
 ### 기술스택
 
