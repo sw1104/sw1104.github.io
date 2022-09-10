@@ -42,3 +42,5 @@ comments: false
 
 # Project
 [USOPP - WeCode 1st project](https://sw1104.github.io/memoir/%5Bmemoir%5D%20wecode%201st%20project%20%ED%9A%8C%EA%B3%A0%EB%A1%9D/)
+
+[WeNB - WeCode 2st project](https://sw1104.github.io/memoir/%5Bmemoir%5D%20wecode%202%EC%B0%A8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20&%208%EC%A3%BC%EC%B0%A8%20%ED%9A%8C%EA%B3%A0%EB%A1%9D/)
