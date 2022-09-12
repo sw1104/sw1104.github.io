@@ -129,11 +129,12 @@
   }
 
   img {
-    max-width: 80px;
+    max-width: 170px;
     align-items: center;
     background-attachment: fixed;
     margin-top: 25px;
     margin-bottom: 10px;
+    border-radius: 65px;
 
     @include breakpoint($large) {
       padding: 0px;
