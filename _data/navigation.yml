@@ -30,5 +30,9 @@ categories:
     url: /categories/DATABASE/
   - title: "network"
     url: /categories/network/
+  - title: "AWS"
+    url: /categories/AWS/
+  - title: "Docker"
+    url: /categories/Docker/
   - title: "Life"
     url: /categories/Life/
