@@ -78,3 +78,5 @@ NAT Gateway 생성을 눌러서 이름을 작성한 뒤 서브넷은 `Public Sub
 ![](../../assets/images/posts_img/AWS/VPC/2022-09-12-natGateway3.png)
 
 이로써 EC2 Instance와 RDS를 생성해주기 위한 첫 단계가 끝났다.
+
+### NAT Gateway는 그냥 가만히 있어도 시간당 0.059달러인가 요금이 부과된다.. 일단 삭제해두고 다시 필요할 때 생성하자.. 아니면 NAT Instance 를 이용해서 비용을 최소화 하는 방법도 있다.
