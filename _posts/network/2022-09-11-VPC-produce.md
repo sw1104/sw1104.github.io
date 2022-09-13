@@ -64,4 +64,17 @@ VPC가 생성이 끝났으면 다음은 서브넷 생성을 한다. 서브넷 �
 
 ![](../../assets/images/posts_img/network/VPC/2022-09-11-VPC10.png)
 
-이제 다음은 backend EC2 Instance를 `Private Subnet`에서 운용하기 위해서는 프로젝트에 필요한 패키지를 설치하거나 깃허브에서 소스코드를 가져오는 등 외부로 통신할 수 있어야 하기 때문에 NAT Gateway가 필요하다. NAT Gateway는 시간 요금 및 처리하는 데이터 기가바이트 당 요금이 부과되기에 최소한의 비용으로 최선의 선택을 해야한다. 
+이제 다음은 backend EC2 Instance를 `Private Subnet`에서 운용하기 위해서는 프로젝트에 필요한 패키지를 설치하거나 깃허브에서 소스코드를 가져오는 등 외부로 통신할 수 있어야 하기 때문에 NAT Gateway가 필요하다. NAT Gateway는 시간 요금 및 처리하는 데이터 기가바이트 당 요금이 부과되기에 최소한의 비용으로 최선의 선택을 해야한다.
+
+NAT Gateway 생성을 눌러서 이름을 작성한 뒤 서브넷은 `Public Subnet`에 견결을 해줘야한다. 그리고 탄력적 IP 할당 버튼을 눌러서 IP를 할당해준 뒤 생성을 해준다.
+![](../../assets/images/posts_img/network/VPC/2022-09-12-natGateway1.png)
+
+다음 `Private Subnet`에 연결되어 있는 `Private Route Table`에 NAT Gateway를 추가해줘야 한다. 해당 라우팅 테이블을 선택해주고 오른쪽 작업을 누른 뒤 라우팅 편집에 들어간다
+
+![](../../assets/images/posts_img/network/VPC/2022-09-12-natGateway2.png)
+
+왼쪽 밑에 라우팅 추가버튼을 누른 뒤 NAT Gateway를 선택해주고 저장해주면 된다.
+
+![](../../assets/images/posts_img/network/VPC/2022-09-12-natGateway3.png)
+
+이로써 EC2 Instance와 RDS를 생성해주기 위한 첫 단계가 끝났다.
