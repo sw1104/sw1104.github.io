@@ -115,7 +115,7 @@ docker run -p 3000:3000 sangwoo1104/demo:0.1.0
 
 요청 IP는 EC2 Instance Public IP를 이용해서 요청을 하면 된다.
 
-![](../../assets/images/posts_img/AWS/docker-aws/%082022-09-15-dkaws10.png)
+![](../../assets/images/posts_img/AWS/docker-aws/2022-09-15-dkaws10.png)
 
 성공적으로 만들어졌고
 
