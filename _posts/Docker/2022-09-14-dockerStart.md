@@ -17,7 +17,9 @@ last_modified_at: 2022-09-14
 ---
 
 # DockerFile 작성
-docker image를 생성하려면 먼저 프로젝트에 dockerfile이 필요하다. 프로젝트에 맞게 작성해주면 된다.
+docker image를 생성하려면 먼저 프로젝트에 dockerfile이 필요하다.
+
+나는 wecode에서 docker 실습을 위해 준비해준 프로젝트를 이용할거고, 다른 프로젝트를 하더라도 프로젝트에 맞게 작성해주면 된다.
 
 ```javascript
 FROM node:16-alpine
