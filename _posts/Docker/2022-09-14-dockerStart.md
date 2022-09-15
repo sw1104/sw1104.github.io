@@ -39,6 +39,10 @@ CMD ["npm", "start"]
 
 # Docker image 
 Docker image를 build 하기 위해 다음 명령어를 사용해준다.
+
+마지막에 Dockerfile의 경로는 현재 디렉토리를 기준으로 작성한다.
+
+나는 현재 Dockerfile이 존재하는 디렉토리에서 빌드를 하고 있기 때문에 .이라 적어주었다.
 ```javascript
 docker build -t 'DockerHub username'/'image name(project name)':'version' 'Dockerfile path'
 ```
