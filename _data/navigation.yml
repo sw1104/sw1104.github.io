@@ -22,8 +22,12 @@ categories:
     url: /categories/TIL/
   - title: "memoir"
     url: /categories/memoir/
-  - title: "Algorithm"
-    url: /categories/Algorithm/
+  - title: "programmers"
+    url: /categories/programmers/
+  - title: "codekata"
+    url: /categories/codekata/
+  - title: "Javascript"
+    url: /categories/Javascript/
   - title: "Node.js"
     url: /categories/Node.js/
   - title: "DATABASE"
@@ -36,5 +40,3 @@ categories:
     url: /categories/Docker/
   - title: "Life"
     url: /categories/Life/
-  - title: "programmers"
-    url: /categories/Algorithm/programmers/

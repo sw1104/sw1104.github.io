@@ -1,9 +1,9 @@
 ---
 title: "programmers"
 layout: category
-permalink: /categories/Algorithm/programmers
+permalink: /categories/programmers
 author_profile: true
-taxonomy: Algorithm/programmers
+taxonomy: programmers
 sidebar:
   nav: "categories"
 ---
