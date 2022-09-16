@@ -7,7 +7,7 @@ categories:
 tags:
   - [AWS]
 
-permalink: /AWS/AWS VPC 생성/
+permalink: /AWS/create-aws-vpc/
 
 toc: true
 toc_sticky: true

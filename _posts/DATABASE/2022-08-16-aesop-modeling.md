@@ -7,7 +7,7 @@ categories:
 tags:
     - [DATABASE, ERD, wecode]
 
-permalink: /DATABASE/Aesop 향수 카테고리 모델링/
+permalink: /DATABASE/Aesop-erd/
 
 toc: true
 toc_sticky: true

@@ -7,7 +7,7 @@ categories:
 tags:
   - [AWS]
 
-permalink: /AWS/AWS RDS 생성/
+permalink: /AWS/create-aws-rds/
 
 toc: true
 toc_sticky: true

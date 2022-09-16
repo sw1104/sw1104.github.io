@@ -22,7 +22,7 @@ locale: "ko-KR" #"en-US"
 title: "성장의 즐거움" # 상단 헤더에 보이는 블로그 명
 title_separator: "&#124;"
 # title_separator: "이게뭐지"
-subtitle: "Sangwoo" # site tagline that appears below site title in masthead
+subtitle: # site tagline that appears below site title in masthead
 name: "Sangwoo Lee" # 블로그 닉네임 설정
 description: "Backend Devleoper" # 블로그 설명
 url: "https://sw1104.github.io" # 블로그 URL

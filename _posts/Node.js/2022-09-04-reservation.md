@@ -7,7 +7,7 @@ categories:
 tags:
   - [Node.js]
 
-permalink: /Node.js/2차 프로젝트 숙소 예약기능/
+permalink: /Node.js/2st-project-reservation/
 
 toc: true
 toc_sticky: true

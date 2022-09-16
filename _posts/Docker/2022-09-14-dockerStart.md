@@ -7,7 +7,7 @@ categories:
 tags:
   - [Docker]
 
-permalink: /Docker/도커 한번 써보자/
+permalink: /Docker/start/
 
 toc: true
 toc_sticky: true

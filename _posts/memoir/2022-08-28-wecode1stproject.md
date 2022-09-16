@@ -7,7 +7,7 @@ categories:
 tags:
   - [memoir, wecode]
 
-permalink: /memoir/[memoir] wecode 1st project 회고록/
+permalink: /memoir/wecode-6weeks-and-1stProject-memoir/
 
 toc: true
 toc_sticky: true

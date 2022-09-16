@@ -7,7 +7,7 @@ categories:
 tags:
   - [memoir, wecode]
 
-permalink: /memoir/[memoir] wecode 3주차 회고록/
+permalink: /memoir/wecode-3weeks-memoir/
 
 toc: true
 toc_sticky: true

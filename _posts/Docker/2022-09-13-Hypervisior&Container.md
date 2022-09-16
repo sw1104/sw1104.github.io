@@ -7,7 +7,7 @@ categories:
 tags:
   - [Docker]
 
-permalink: /Docker/Hypervisor Virtualization VS Container Virtualization/
+permalink: /Docker/virtualization/
 
 toc: true
 toc_sticky: true

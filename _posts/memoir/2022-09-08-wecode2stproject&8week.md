@@ -7,7 +7,7 @@ categories:
 tags:
   - [memoir, wecode]
 
-permalink: /memoir/[memoir] wecode 2차프로젝트 & 8주차 회고록/
+permalink: /memoir/wecode-8weeks-and-8weeks-memoir/
 
 toc: true
 toc_sticky: true

@@ -7,7 +7,7 @@ categories:
 tags:
   - [Docker]
 
-permalink: /Docker/도커 설치/
+permalink: /Docker/setup/
 
 toc: true
 toc_sticky: true

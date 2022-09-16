@@ -7,7 +7,7 @@ categories:
 tags:
   - [AWS]
 
-permalink: /AWS/AWS EC2에서 Docker를 이용해보자/
+permalink: /AWS/aws-ec2-docker-connection/
 
 toc: true
 toc_sticky: true
