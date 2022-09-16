@@ -113,21 +113,83 @@ docker run -p 3000:3000 sangwoo1104/demo:0.1.0
 
 # 이제 포스트맨으로 통신해보기
 
+내 프로젝트에는 다음과 같이 서버의 상태를 체크하는 ping-pong과 유저의 회원가입 및 유저 목록을 가져오는 코드가 있다.
+
+```javascript
+// Health check
+app.get("/ping", (req, res) => {
+  res.status(200).json({ message: "pong" })
+})
+
+// Sign up
+app.post("/users/signup", async (req, res) => {
+  const { email, password } = req.body
+
+  await myDataSource.manager.query(
+    `INSERT INTO users (
+      email, password
+    ) VALUES (?, ?)`,
+    [email, password]
+  )
+
+  res.status(201).json({ message: "created" })
+})
+
+// Get users
+app.get("/users", (req, res) => {
+  myDataSource.manager.query(`SELECT * FROM users`, (err, rows, fields) => {
+    res.status(200).json(rows)
+  })
+})
+
+```
+
 요청 IP는 EC2 Instance Public IP를 이용해서 요청을 하면 된다.
 
 ![](../../assets/images/posts_img/AWS/docker-aws/2022-09-15-dkaws10.png)
 
-성공적으로 만들어졌고
+성공적으로!! 엥?? 왜 안되는거지ㅠㅠ
 
-![](../../assets/images/posts_img/AWS/docker-aws/%082022-09-15-dkaws9.png)
+![](../../assets/images/posts_img/AWS/docker-aws/2022-09-16-dkaws.gif)
 
-다음 만들어진 유저 정보를 가져와보면
+뭔가 잘못됐다. 요청이 안가는걸 보니 EC2에 접속을 못하는거 같다. 
 
-![](../../assets/images/posts_img/AWS/docker-aws/%082022-09-15-dkaws8.png)
+보안그룹의 인바운드 규칙을 좀 수정해주자!
 
-잘 가져와지는 것을 볼 수 있다.
+EC2 목록에서 보안그룹을 누른다음에 EC2에 연결되어있는 보안그룹으로 들어가면 오른쪽 아래에 인바운드 규칙 편집이란 버튼이 있다. 
 
-![](../../assets/images/posts_img/AWS/docker-aws/%082022-09-15-dkaws11.png)
+![](../../assets/images/posts_img/AWS/docker-aws/2022-09-16-dkaws2.png)
 
+왼쪽 아래에 규칙 추가 버튼을 누른 뒤에
+
+포트는 3000번 쓸거니까 3000으로 작성하고 완전 열어둔 다음 저장한다.
+
+![](../../assets/images/posts_img/AWS/docker-aws/2022-09-16-dkaws3.png)
+
+이제 혹시 모르니 상태를 먼저 보기 위해 Health check API를 먼저 실행해보자. 
+
+제발 `pong` `pong` `pong` `pong` `pong`
+
+![](../../assets/images/posts_img/AWS/docker-aws/2022-09-16-dkaws4.png)
+
+`pong`이 잘 나왔다!!!!! `pong` `pong` `pong` `pong`
+
+![](../../assets/images/posts_img/AWS/docker-aws/2022-09-16-dkaws5.png)
+
+그러면 유저를 가입시켜보자
+
+![](../../assets/images/posts_img/AWS/docker-aws/2022-09-16-dkaws6.png)
+
+오 가입이 잘된다!! 여러명 가입시킨다음 출력해보자
+
+![](../../assets/images/posts_img/AWS/docker-aws/2022-09-16-dkaws9.png)
+
+
+
+![](../../assets/images/posts_img/AWS/docker-aws/2022-09-16-dkaws7.png)
+
+유저목록도 아주아주 잘 불러와지는구나~~ 
+
+![](../../assets/images/posts_img/AWS/docker-aws/2022-09-16-dkaws8.png)
 
 # 끝!
