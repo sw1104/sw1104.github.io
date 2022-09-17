@@ -1,9 +1,9 @@
 ---
-title: "Algorithm"
+title: "codekata"
 layout: category
-permalink: /categories/Algorithm/
+permalink: /categories/codekata/
 author_profile: true
-taxonomy: Algorithm
+taxonomy: codekata
 sidebar:
   nav: "categories"
 ---

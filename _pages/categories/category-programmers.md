@@ -1,7 +1,7 @@
 ---
 title: "programmers"
 layout: category
-permalink: /categories/programmers
+permalink: /categories/programmers/
 author_profile: true
 taxonomy: programmers
 sidebar:
