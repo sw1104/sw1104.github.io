@@ -27,9 +27,9 @@ last_modified_at: 2022-09-08
 
 [BACKEND GITHUB](https://github.com/wecode-bootcamp-korea/36-2nd-WeNB-backend)
 
-[프로젝트 시연 영상]()
+[프로젝트 시연 영상](https://www.youtube.com/watch?v=4i2Bv78AlmY)
 
-
+<iframe width="600" height="390" src="https://www.youtube.com/embed/4i2Bv78AlmY" title="WeNB 시연 영상" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
