@@ -1,44 +1,46 @@
 # main links
 main:
-  - title: "Home"
-    url: https://sw1104.github.io/
+    - title: "Home"
+      url: https://sw1104.github.io/
 
-  - title: "About"
-    url: /about/
+    - title: "About"
+      url: /about/
 
-  # - title: "GitHub"
-  #   url: https://github.com/choiiis
+    # - title: "GitHub"
+    #   url: https://github.com/choiiis
 
-  # - title: "Projects"
-  #   url: /projects/
+    # - title: "Projects"
+    #   url: /projects/
 
-  # - title: "Categories"
-  #   url: /categories/
+    # - title: "Categories"
+    #   url: /categories/
 
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "TIL"
-    url: /categories/TIL/
-  - title: "memoir"
-    url: /categories/memoir/
-  - title: "programmers"
-    url: /categories/programmers/
-  - title: "codekata"
-    url: /categories/codekata/
-  - title: "Javascript"
-    url: /categories/Javascript/
-  - title: "Node.js"
-    url: /categories/Node.js/
-  - title: "DATABASE"
-    url: /categories/DATABASE/
-  - title: "network"
-    url: /categories/network/
-  - title: "AWS"
-    url: /categories/AWS/
-  - title: "Docker"
-    url: /categories/Docker/
-  - title: "Blog"
-    url: /categories/Blog/
-  - title: "Life"
-    url: /categories/Life/
+    - title: "TIL"
+      url: /categories/TIL/
+    - title: "memoir"
+      url: /categories/memoir/
+    - title: "programmers"
+      url: /categories/programmers/
+    - title: "codekata"
+      url: /categories/codekata/
+    - title: "Javascript"
+      url: /categories/Javascript/
+    - title: "Node.js"
+      url: /categories/Node.js/
+    - title: "React"
+      url: /categories/React/
+    - title: "DATABASE"
+      url: /categories/DATABASE/
+    - title: "network"
+      url: /categories/network/
+    - title: "AWS"
+      url: /categories/AWS/
+    - title: "Docker"
+      url: /categories/Docker/
+    - title: "Blog"
+      url: /categories/Blog/
+    - title: "Life"
+      url: /categories/Life/
