@@ -1,11 +1,11 @@
 ---
-title: "[memoir] wecode 2주차 회고록"
+title: "wecode 2주차 회고록"
 excerpt: "개발이 재밌어!"
 
 categories:
-  - memoir
+    - memoir
 tags:
-  - [memoir, wecode]
+    - [memoir, wecode]
 
 permalink: /memoir/wecode-2weeks-memoir/
 
@@ -28,7 +28,7 @@ last_modified_at: 2022-07-31
 
 API만들기는 node.js의 http모듈만을 이용해서 만들었는데 유저와 게시글이 담긴 두개의 cvs파일을 불러와서 서로 합쳐서 어떤 유저가 어떤 게시글을 작성했는지 출력하는 API였다.
 
-처음에는 어떻게 접근을 해야할지 잘 모르고 헤메기도 했는데 멘토님들이 정말 훌륭한 길잡이가 되어주셔서 잘 마무리 할 수 있었다. 
+처음에는 어떻게 접근을 해야할지 잘 모르고 헤메기도 했는데 멘토님들이 정말 훌륭한 길잡이가 되어주셔서 잘 마무리 할 수 있었다.
 
 그리고 Flipped Learning이라고 거꾸로 학습법으로 수업을 했다. 미리 영상과 학습자료를 보면서 공부를 하고 그룹Q&A 시간을 통해 질문 토의를 통해서 지식을 습득하는 방식인데 신박하고 정말 좋았다. 내가 미쳐 생각하지 못하고 넘어간 부분도 동기들이 질문을 해줘서 짚고 넘어갈 수 있고 내가 가장 집중이 잘 되는 시간에 학습을 진행할 수 있다는 점이 정말 좋았다.
 
@@ -38,4 +38,4 @@ API만들기는 node.js의 http모듈만을 이용해서 만들었는데 유저�
 
 ![](../../assets/images/posts_img/memoir/2022-07-31-wecode2week1.png)
 
---- 
+---

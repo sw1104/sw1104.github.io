@@ -1,11 +1,11 @@
 ---
-title: "[memoir] wecode 4주차 회고록"
+title: "wecode 4주차 회고록"
 excerpt: "나는 할 수 있다."
 
 categories:
-  - memoir
+    - memoir
 tags:
-  - [memoir, wecode]
+    - [memoir, wecode]
 
 permalink: /memoir/wecode-4weeks-memoir/
 
@@ -19,7 +19,9 @@ last_modified_at: 2022-08-14
 # 회고록
 
 ---
+
 ## 위코드 4주차
+
 벌써 4주차가 끝났다.
 
 매일 15시간에서 18시간을 했는데
