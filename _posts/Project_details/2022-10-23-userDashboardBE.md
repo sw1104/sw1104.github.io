@@ -226,7 +226,7 @@ const exchangeReq = async (userId) => {
     if (point < 1000) throw new Error("LACK OF POINT", 400);
     if (state === 1) throw new Error("ONE TO ONE", 400);
 
-    // rePoint = 교환을 요청하고 남은 포인트
+    // rePoint: 교환을 요청하고 남은 포인트
     // dePoint: 1000:1로 교환 요청을 보내기 위해서 1000단위로 잘라주기 위한 로직
     // addToken: 정규표현식을 이용해 dePoint에서 0 세자리를 제거해주는 로직
     let rePoint = parseInt((point + "").split("").splice(-3).join(""));
