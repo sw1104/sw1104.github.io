@@ -54,7 +54,7 @@ last_modified_at: 2022-10-23
                 count={inputs}
                 percentage={{
                     label: (
-                        <MDButton onClick={() => createWallet()}>
+                        <MDButton onClick={% raw %}{() => createWallet()}{% endraw %}>
                             지갑 조회
                         </MDButton>
                     )
@@ -102,7 +102,7 @@ last_modified_at: 2022-10-23
                 count="토큰 교환"
                 percentage={{
                     label: (
-                        <MDButton onClick={() => exToken()}>
+                        <MDButton onClick={% raw %}{() => exToken()}{% endraw %}>
                             토큰 교환 신청
                         </MDButton>
                     )
@@ -152,7 +152,7 @@ last_modified_at: 2022-10-23
                 count={getVPoint}
                 percentage={{
                     label: (
-                        <MDButton onClick={() => earnPoint()}>
+                        <MDButton onClick={% raw %}{() => earnPoint()}{% endraw %}>
                             포인트 획득하기
                         </MDButton>
                     )
@@ -218,7 +218,7 @@ last_modified_at: 2022-10-23
                         percentage={{
                             label: (
                                 <MDButton
-                                    onClick={() => buyProduct(item.productId)}
+                                    onClick={% raw %}{() => buyProduct(item.productId)}{% endraw %}
                                 >
                                     상품 구매하기
                                 </MDButton>
