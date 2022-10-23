@@ -3,7 +3,7 @@ title: "기업 인턴십 프로젝트 - 유저 대시보드 FRONTEND CODE"
 excerpt: "유저 대시보드 파헤치기"
 
 categories:
-    - Project
+    - Project_details
 tags:
     - [Project, wecode]
 
