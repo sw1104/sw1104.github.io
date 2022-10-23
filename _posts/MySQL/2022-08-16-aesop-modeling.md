@@ -3,11 +3,11 @@ title: "Aesop 향수 카테고리 모델링"
 excerpt: "1차 프로젝트 사이트인 Aesop 사이트 향수 카테고리 모델링"
 
 categories:
-    - DATABASE
+    - MySQL
 tags:
-    - [DATABASE, ERD, wecode]
+    - [MySQL, ERD, wecode]
 
-permalink: /DATABASE/Aesop-erd/
+permalink: /MySQL/Aesop-erd/
 
 toc: true
 toc_sticky: true
