@@ -7,7 +7,7 @@ categories:
 tags:
     - [Project, wecode]
 
-permalink: /Project/cooperation/adminDashboard/backend
+permalink: /Project_details/cooperation/adminDashboard/backend
 
 toc: true
 toc_sticky: true
