@@ -52,13 +52,13 @@ last_modified_at: 2022-10-23
             <ComplexStatisticsCard
                 title="나의 토큰 수량"
                 count={inputs}
-                percentage={{
+                percentage={% raw %}{{
                     label: (
-                        <MDButton onClick={% raw %}{() => createWallet()}{% endraw %}>
+                        <MDButton onClick={() => createWallet()}>
                             지갑 조회
                         </MDButton>
                     )
-                }}
+                }}{% endraw %}
             />
         </MDBox>
     </Grid>;
@@ -100,13 +100,13 @@ last_modified_at: 2022-10-23
         <MDBox mb={1.5}>
             <ComplexStatisticsCard
                 count="토큰 교환"
-                percentage={{
+                percentage={% raw %}{{
                     label: (
-                        <MDButton onClick={% raw %}{() => exToken()}{% endraw %}>
+                        <MDButton onClick={() => exToken()}>
                             토큰 교환 신청
                         </MDButton>
                     )
-                }}
+                }}{% endraw %}
             />
         </MDBox>
     </Grid>;
@@ -150,13 +150,13 @@ last_modified_at: 2022-10-23
             <ComplexStatisticsCard
                 title="나의 포인트"
                 count={getVPoint}
-                percentage={{
+                percentage={% raw %}{{
                     label: (
-                        <MDButton onClick={% raw %}{() => earnPoint()}{% endraw %}>
+                        <MDButton onClick={() => earnPoint()}>
                             포인트 획득하기
                         </MDButton>
                     )
-                }}
+                }}{% endraw %}
             />
         </MDBox>
     </Grid>;
@@ -215,15 +215,15 @@ last_modified_at: 2022-10-23
                     <ComplexStatisticsCard
                         title={item.token}
                         count={item.productName}
-                        percentage={{
+                        percentage={% raw %}{{
                             label: (
                                 <MDButton
-                                    onClick={% raw %}{() => buyProduct(item.productId)}{% endraw %}
+                                    onClick={() => buyProduct(item.productId)}
                                 >
                                     상품 구매하기
                                 </MDButton>
                             )
-                        }}
+                        }}{% endraw %}
                     />
                 </MDBox>
             </Grid>
