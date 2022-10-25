@@ -1,5 +1,5 @@
 ---
-title: "wecode 2차 프로젝트"
+title: "WeNB 팀 프로젝트"
 excerpt: "Airbnb 사이트를 참고한 팀 프로젝트"
 
 categories:
@@ -7,7 +7,7 @@ categories:
 tags:
     - [Project, wecode]
 
-permalink: /Project/wecode-2st/
+permalink: /Project/wenb/
 
 toc: true
 toc_sticky: true

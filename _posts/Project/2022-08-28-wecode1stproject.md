@@ -1,5 +1,5 @@
 ---
-title: "wecode 1차 프로젝트"
+title: "usopp 팀 프로젝트"
 excerpt: "Aesop 사이트를 참고한 팀 프로젝트"
 
 categories:
@@ -7,7 +7,7 @@ categories:
 tags:
     - [Project, wecode]
 
-permalink: /Project/wecode-1st/
+permalink: /Project/usopp/
 
 toc: true
 toc_sticky: true
