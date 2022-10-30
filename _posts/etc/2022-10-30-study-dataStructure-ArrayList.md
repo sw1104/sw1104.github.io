@@ -12,8 +12,8 @@ permalink: /etc/data-structure/ArrayList
 toc: true
 toc_sticky: true
 
-date: 2022-10-30
-last_modified_at: 2022-10-30
+date: 2022-10-30 11:20:41
+last_modified_at: 2022-10-30 11:20:41
 ---
 
 # Array/List
