@@ -12,8 +12,8 @@ permalink: /etc/data-structure
 toc: true
 toc_sticky: true
 
-date: 2022-10-30 10:40:00
-last_modified_at: 2022-10-30 10:40:00
+date: 2022-10-30
+last_modified_at: 2022-10-30
 ---
 
 # 자료구조란
