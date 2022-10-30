@@ -24,10 +24,11 @@ Set은 Array나 List 처럼 순열 자료구조 이다. 하지만 Set은 순서�
 - 삽입 순서대로 저장되지 않는다. 즉, 특정한 순서를 기대할 수 없는 자료구조이다.
 - 수정이 가능하다.
 - 동일한 값을 여러번 삽입 불가능 하다. 
+
 ```python
 // set 예시
->>> mySet = {1, 2, 3, 4, 5, 4, 3, 2, 1} // {1, 2, 3, 4, 5}
->>> for i in mySet:
+mySet = {1, 2, 3, 4, 5, 4, 3, 2, 1} // {1, 2, 3, 4, 5}
+for i in mySet:
         print(i)
 1
 2
@@ -35,7 +36,7 @@ Set은 Array나 List 처럼 순열 자료구조 이다. 하지만 Set은 순서�
 4
 5
 
->>> mySet.append(7) 
+mySet.append(7) 
     Traceback (most recent call last):
     File "<stdin>", line 1, in <module>
     AttributeError: 'set' object has no attribute 'append'
