@@ -1,6 +1,6 @@
 ---
 title: "패스워드 기반 게시판 서비스 API"
-excerpt: "원티드 프리온보딩 팀 프로젝트"
+excerpt: "원티드 프리온보딩 개인 프로젝트"
 
 categories:
     - Project
