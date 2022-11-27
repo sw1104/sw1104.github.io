@@ -30,6 +30,8 @@ categories:
       url: /categories/codekata/
     - title: "Javascript"
       url: /categories/Javascript/
+    - title: "Python"
+      url: /categories/Python/
     - title: "Node.js"
       url: /categories/Node.js/
     - title: "React"
