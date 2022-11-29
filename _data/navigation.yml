@@ -18,8 +18,6 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-    - title: "TIL"
-      url: /categories/TIL/
     - title: "memoir"
       url: /categories/memoir/
     - title: "Project"
