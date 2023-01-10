@@ -3,7 +3,7 @@ title: "기술면접 대비 정리 - DataBase"
 excerpt: "DataBase 정리 [계속 추가중]"
 
 categories:
-    - etc
+    - Etc
 tags:
     - [interview]
 

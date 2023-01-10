@@ -3,7 +3,7 @@ title: "AWS"
 layout: category
 permalink: /categories/aws/
 author_profile: true
-taxonomy: aws
+taxonomy: AWS
 sidebar:
     nav: "categories"
 ---

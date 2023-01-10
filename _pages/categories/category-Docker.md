@@ -3,7 +3,7 @@ title: "Docker"
 layout: category
 permalink: /categories/docker/
 author_profile: true
-taxonomy: docker
+taxonomy: Docker
 sidebar:
     nav: "categories"
 ---

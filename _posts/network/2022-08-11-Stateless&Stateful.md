@@ -3,7 +3,7 @@ title: "Stateless와 Statefull"
 excerpt: "stateless와 statefull의 차이"
 
 categories:
-  - network
+  - Network
 tags:
   - [network]
 

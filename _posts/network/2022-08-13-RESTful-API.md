@@ -3,7 +3,7 @@ title: "RESTful API"
 excerpt: "RESTful에 대해.."
 
 categories:
-  - network
+  - Network
 tags:
   - [network]
 

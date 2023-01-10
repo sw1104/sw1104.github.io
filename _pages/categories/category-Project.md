@@ -3,7 +3,7 @@ title: "Project"
 layout: category
 permalink: /categories/project/
 author_profile: true
-taxonomy: project
+taxonomy: Project
 sidebar:
     nav: "categories"
 ---

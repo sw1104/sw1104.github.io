@@ -3,7 +3,7 @@ title: "network"
 layout: category
 permalink: /categories/network/
 author_profile: true
-taxonomy: network
+taxonomy: Network
 sidebar:
     nav: "categories"
 ---

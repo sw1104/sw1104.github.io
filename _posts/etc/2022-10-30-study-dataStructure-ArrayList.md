@@ -3,7 +3,7 @@ title: "취업스터디 대비 - 자료구조 - Array/List"
 excerpt: "자료구조 Array와 List에 대해서"
 
 categories:
-    - etc
+    - Etc
 tags:
     - [data-structure, Array, List]
 

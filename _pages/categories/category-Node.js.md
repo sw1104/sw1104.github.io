@@ -3,7 +3,7 @@ title: "NodeJS"
 layout: category
 permalink: /categories/nodejs/
 author_profile: true
-taxonomy: nodejs
+taxonomy: NodeJS
 sidebar:
     nav: "categories"
 ---

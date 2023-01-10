@@ -3,7 +3,7 @@ title: "React"
 layout: category
 permalink: /categories/react/
 author_profile: true
-taxonomy: react
+taxonomy: React
 sidebar:
     nav: "categories"
 ---

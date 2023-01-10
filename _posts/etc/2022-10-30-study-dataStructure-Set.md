@@ -3,7 +3,7 @@ title: "취업스터디 대비 - 자료구조 - Set"
 excerpt: "자료구조 Set에 대해서"
 
 categories:
-    - etc
+    - Etc
 tags:
     - [data-structure, Set]
 
