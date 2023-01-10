@@ -5,5 +5,5 @@ permalink: /categories/memoir/
 author_profile: true
 taxonomy: memoir
 sidebar:
-  nav: "categories"
+    nav: "categories"
 ---

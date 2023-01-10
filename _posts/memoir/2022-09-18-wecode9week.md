@@ -1,19 +1,22 @@
 ---
-title: "wecode 9주차 회고록"
-excerpt: "wecode 9주차 회고록"
+title: "개발자 인생 9주차 회고록"
 
 categories:
     - memoir
 tags:
-    - [memoir, wecode]
+    - [memoir]
 
-permalink: /memoir/wecode-9week-memoir/
+permalink: /memoir/9
 
 toc: true
 toc_sticky: true
 
 date: 2022-09-18
 last_modified_at: 2022-09-18
+---
+
+> <center> 2022-09-12 ~ 2022-09-18 </center>
+
 ---
 
 # Facts
@@ -27,7 +30,3 @@ last_modified_at: 2022-09-18
 # Findings
 
 스스로 학습?과 알고리즘 풀이!
-
-# Self Affirmation
-
-> 나는 목표가 명확하고 내가 가야할 방향을 알고 있다.

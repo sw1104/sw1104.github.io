@@ -18,30 +18,52 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
+  - title: "Life"
+    children:
     - title: "memoir"
       url: /categories/memoir/
+  - title: "Project"
+    children:
     - title: "Project"
       url: /categories/Project/
+  - title: "Coding Test"
+    children:
     - title: "programmers"
       url: /categories/programmers/
     - title: "codekata"
       url: /categories/codekata/
+  - title: "Language"
+    children:
     - title: "Javascript"
       url: /categories/Javascript/
     - title: "Python"
       url: /categories/Python/
+  - title: "Node.js"
+    children:
     - title: "Node.js"
       url: /categories/Node.js/
+  - title: "React"
+    children:
     - title: "React"
       url: /categories/React/
+  - title: "DBMS"
+    children:
     - title: "MySQL"
       url: /categories/MySQL/
+  - title: "CS"
+    children:
     - title: "network"
       url: /categories/network/
+  - title: "AWS"
+    children:
     - title: "AWS"
       url: /categories/AWS/
+  - title: "software"
+    children:
     - title: "Docker"
       url: /categories/Docker/
+  - title: "etc"
+    children:
     - title: "Blog"
       url: /categories/Blog/
     - title: "Life"

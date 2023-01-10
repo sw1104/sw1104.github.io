@@ -1,13 +1,12 @@
 ---
-title: "wecode 1주차 회고록"
-excerpt: "기대 반 설렘 반"
+title: "개발자 인생 1주차 회고록"
 
 categories:
     - memoir
 tags:
-    - [memoir, wecode]
+    - [memoir]
 
-permalink: /memoir/wecode-1weeks-memoir/
+permalink: /memoir/1
 
 toc: true
 toc_sticky: true
@@ -16,13 +15,11 @@ date: 2022-07-24
 last_modified_at: 2022-07-24
 ---
 
-# 회고록
+> <center> 2022-07-17 ~ 2022-07-24 </center>
 
 ---
 
-## 위코드 1주차
-
-위코드에서의 1주일이 흘렀다.
+위코드를 통해 개발자로의 새로운 삶을 시작했다.
 
 1주차에는 프론트와 백엔드 구분 없이 html과 css 그리고 javascript 관련 replit 문제를 풀이하고
 

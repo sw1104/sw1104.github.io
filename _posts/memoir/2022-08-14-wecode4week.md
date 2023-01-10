@@ -1,13 +1,12 @@
 ---
-title: "wecode 4주차 회고록"
-excerpt: "나는 할 수 있다."
+title: "개발자 인생 4주차 회고록"
 
 categories:
     - memoir
 tags:
-    - [memoir, wecode]
+    - [memoir]
 
-permalink: /memoir/wecode-4weeks-memoir/
+permalink: /memoir/4
 
 toc: true
 toc_sticky: true
@@ -16,13 +15,10 @@ date: 2022-08-14
 last_modified_at: 2022-08-14
 ---
 
-# 회고록
+> <center> 2022-08-08 ~ 2022-08-14 </center>
 
 ---
 
-## 위코드 4주차
-
-벌써 4주차가 끝났다.
 
 매일 15시간에서 18시간을 했는데
 

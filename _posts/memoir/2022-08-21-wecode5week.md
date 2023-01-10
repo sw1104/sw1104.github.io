@@ -1,26 +1,23 @@
 ---
-title: "wecode 5주차 회고록"
-excerpt: "1차 프로젝트 1주차"
+title: "개발자 인생 5주차 회고록"
 
 categories:
     - memoir
 tags:
-    - [memoir, wecode]
+    - [memoir]
 
-permalink: /memoir/wecode-5weeks-memoir/
+permalink: /memoir/5
 
 toc: true
 toc_sticky: true
 
-date: 2022-08-14
-last_modified_at: 2022-08-14
+date: 2022-08-21
+last_modified_at: 2022-08-21
 ---
 
-# 회고록
+> <center> 2022-08-15 ~ 2022-08-21 </center>
 
 ---
-
-# 위코드 5주차 이자 1차 프로젝트 1주차
 
 ## Facts
 
@@ -36,7 +33,3 @@ last_modified_at: 2022-08-14
 ## Findings
 
 다른 팀들과는 다르게 우리 팀은 온라인으로 소통도 많이 했고 이게 일 하는데 큰 문제가 아니라는 것을 느꼈기에 현업에 가서도 재택근무자와 소통하는 것에 어려움을 느끼지 않을 거 같다.
-
-## Self Affirmation
-
-> 새로운것에 두려워하지 말자!

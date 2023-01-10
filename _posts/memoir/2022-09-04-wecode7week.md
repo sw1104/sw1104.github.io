@@ -1,19 +1,22 @@
 ---
-title: "wecode 7주차 회고록"
-excerpt: "2차 프로젝트 1주차 회고록"
+title: "개발자 인생 7주차 회고록"
 
 categories:
     - memoir
 tags:
-    - [memoir, wecode]
+    - [memoir]
 
-permalink: /memoir/wecode-7weeks-memoir/
+permalink: /memoir/7
 
 toc: true
 toc_sticky: true
 
 date: 2022-09-04
 last_modified_at: 2022-09-04
+---
+
+> <center> 2022-08-29 ~ 2022-09-04 </center>
+
 ---
 
 # Facts
@@ -33,7 +36,3 @@ last_modified_at: 2022-09-04
 # Findings
 
 1차 프로젝트보다 성장한 나를 발견할 수 있었으며, 테스트 코드가 정말 중요하는 것을 깨달았다. 테스트 코드만 잘 작성해도 기능 개발이 산으로 가지 않고 목적지가 정해져있으니 깔끔하고 명확하게 구현되는 것을 느꼈다.
-
-# Self Affirmation
-
-> 둥지를 떠나 세상을 향해 날아가야할 시기가 다가온다.

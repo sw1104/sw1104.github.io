@@ -5,5 +5,5 @@ permalink: /categories/Javascript/
 author_profile: true
 taxonomy: Javascript
 sidebar:
-  nav: "categories"
+    nav: "categories"
 ---

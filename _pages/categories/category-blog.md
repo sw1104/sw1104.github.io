@@ -5,5 +5,5 @@ permalink: /categories/Blog/
 author_profile: true
 taxonomy: Blog
 sidebar:
-  nav: "categories"
+    nav: "categories"
 ---

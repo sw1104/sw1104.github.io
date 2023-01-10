@@ -5,5 +5,5 @@ permalink: /categories/AWS/
 author_profile: true
 taxonomy: AWS
 sidebar:
-  nav: "categories"
+    nav: "categories"
 ---
