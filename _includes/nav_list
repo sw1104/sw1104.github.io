@@ -5,9 +5,9 @@
   <input id="ac-toc" name="accordion-toc" type="checkbox" />
   <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</label>
   <ul class="nav__items">
-    <!-- <li>
+    <li>
       <span class="nav__total">🌴 Total Posts: {{site.posts | size}}</span>
-    </li> -->
+    </li>
     
     {% for nav in navigation %}
       <li>
@@ -18,6 +18,29 @@
               <span class="nav__sub-title">{{ nav.title }}</span>
               <hr>
         {% endif %}
+
+        <span class="nav__sub-title">Coding Test</span>
+            <!-- <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Algorithm" %}
+                        <li><a href="/categories/algorithm" class="">알고리즘 구현 (with C++) ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul> -->
+            <ul>
+              {% for category in site.categories %}
+                  {% if category[0] == "Algorithm" %}
+                      <li><a href="/categories/codekata" class="">코드카타 (with C++) ({{category[1].size}})</a></li>
+                  {% endif %}
+              {% endfor %}
+          </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Programmers" %}
+                        <li><a href="/categories/programmers" class="">프로그래머스 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
 
         {% if nav.children != null %}
         <ul>
