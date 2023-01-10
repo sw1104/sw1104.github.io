@@ -3,11 +3,11 @@ title: "2차 프로젝트 숙소 예약기능"
 excerpt: "숙소 예약 기능을 알아보쟈"
 
 categories:
-  - Node.js
+  - NodeJS
 tags:
-  - [Node.js]
+  - [NodeJS]
 
-permalink: /Node.js/2st-project-reservation/
+permalink: /nodejs/project-reservation/
 
 toc: true
 toc_sticky: true

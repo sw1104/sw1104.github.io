@@ -9,7 +9,7 @@ main:
     # - title: "GitHub"
     #   url: https://github.com/choiiis
 
-    - title: "projects"
+    - title: "Project"
       url: /projects/
 
     # - title: "Categories"
@@ -22,51 +22,54 @@ categories:
     children:
     - title: "memoir"
       url: /categories/memoir/
-  - title: "Project"
+
+  - title: "Language"
     children:
-    - title: "Project"
-      url: /categories/project/
+    - title: "Javascript"
+      url: /categories/javascript/
+    - title: "Python"
+      url: /categories/python/
+
+  - title: "NodeJS"
+    children:
+    - title: "Node.js"
+      url: /categories/node.js/
+
+  - title: "React"
+    children:
+    - title: "React"
+      url: /categories/react/
+
+  - title: "DBMS"
+    children:
+    - title: "MySQL"
+      url: /categories/mysql/
+
+  - title: "AWS"
+    children:
+    - title: "AWS"
+      url: /categories/aws/
+
+  - title: "Software"
+    children:
+    - title: "Docker"
+      url: /categories/docker/
+
+  - title: "CS"
+    children:
+    - title: "network"
+      url: /categories/network/
+
   - title: "Coding Test"
     children:
     - title: "programmers"
       url: /categories/programmers/
     - title: "codekata"
       url: /categories/codekata/
-  - title: "Language"
-    children:
-    - title: "Javascript"
-      url: /categories/Javascript/
-    - title: "Python"
-      url: /categories/Python/
-  - title: "Node.js"
-    children:
-    - title: "Node.js"
-      url: /categories/Node.js/
-  - title: "React"
-    children:
-    - title: "React"
-      url: /categories/React/
-  - title: "DBMS"
-    children:
-    - title: "MySQL"
-      url: /categories/MySQL/
-  - title: "CS"
-    children:
-    - title: "network"
-      url: /categories/network/
-  - title: "AWS"
-    children:
-    - title: "AWS"
-      url: /categories/AWS/
-  - title: "software"
-    children:
-    - title: "Docker"
-      url: /categories/Docker/
+
   - title: "etc"
     children:
     - title: "Blog"
-      url: /categories/Blog/
-    - title: "Life"
-      url: /categories/Life/
+      url: /categories/blog/
     - title: "etc"
       url: /categories/etc/

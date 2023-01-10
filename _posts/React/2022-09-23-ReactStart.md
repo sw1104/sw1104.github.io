@@ -7,7 +7,7 @@ categories:
 tags:
     - [React]
 
-permalink: /React/start/3
+permalink: /react/start/3
 
 toc: true
 toc_sticky: true

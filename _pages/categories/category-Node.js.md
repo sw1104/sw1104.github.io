@@ -1,9 +1,9 @@
 ---
-title: "Node.js"
+title: "NodeJS"
 layout: category
-permalink: /categories/Node.js/
+permalink: /categories/nodejs/
 author_profile: true
-taxonomy: Node.js
+taxonomy: nodejs
 sidebar:
     nav: "categories"
 ---

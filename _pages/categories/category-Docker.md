@@ -1,9 +1,9 @@
 ---
 title: "Docker"
 layout: category
-permalink: /categories/Docker/
+permalink: /categories/docker/
 author_profile: true
-taxonomy: Docker
+taxonomy: docker
 sidebar:
     nav: "categories"
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Blog"
 layout: category
-permalink: /categories/Blog/
+permalink: /categories/blog/
 author_profile: true
-taxonomy: Blog
+taxonomy: blog
 sidebar:
     nav: "categories"
 ---

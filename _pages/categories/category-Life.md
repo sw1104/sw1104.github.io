@@ -1,9 +1,9 @@
 ---
 title: "Life"
 layout: category
-permalink: /categories/Life/
+permalink: /categories/life/
 author_profile: true
-taxonomy: Life
+taxonomy: life
 sidebar:
     nav: "categories"
 ---

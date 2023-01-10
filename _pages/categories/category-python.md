@@ -1,9 +1,9 @@
 ---
 title: "Python"
 layout: category
-permalink: /categories/Python/
+permalink: /categories/python/
 author_profile: true
-taxonomy: Python
+taxonomy: python
 sidebar:
     nav: "categories"
 ---
