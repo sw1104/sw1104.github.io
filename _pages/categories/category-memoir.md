@@ -1,7 +1,7 @@
 ---
 title: "memoir"
 layout: category
-permalink: /categories/memoir/
+permalink: /categories/memoir
 author_profile: true
 taxonomy: memoir
 sidebar:

@@ -1,7 +1,7 @@
 ---
 title: "MySQL"
 layout: category
-permalink: /categories/mysql/
+permalink: /categories/mysql
 author_profile: true
 taxonomy: MySQL
 sidebar:

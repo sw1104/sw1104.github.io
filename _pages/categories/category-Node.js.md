@@ -1,7 +1,7 @@
 ---
 title: "NodeJS"
 layout: category
-permalink: /categories/nodejs/
+permalink: /categories/nodejs
 author_profile: true
 taxonomy: NodeJS
 sidebar:

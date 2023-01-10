@@ -7,7 +7,7 @@ categories:
 tags:
     - [project, wanted]
 
-permalink: /project/wanted-1/
+permalink: /project/wanted-1
 
 toc: true
 toc_sticky: true

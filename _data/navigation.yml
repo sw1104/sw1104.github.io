@@ -1,16 +1,16 @@
 # main links
 main:
-    - title: "Home"
-      url: https://sw1104.github.io/
-
     - title: "About"
-      url: /about/
+      url: /about
+
+    - title: "Project"
+      url: /projects
 
     # - title: "GitHub"
     #   url: https://github.com/choiiis
 
-    - title: "Project"
-      url: /projects/
+    - title: "Blog"
+      url: https://sw1104.github.io/
 
     # - title: "Categories"
     #   url: /categories/
@@ -21,55 +21,57 @@ categories:
   - title: "Life"
     children:
     - title: "memoir"
-      url: /categories/memoir/
+      url: /categories/memoir
 
   - title: "Language"
     children:
     - title: "Javascript"
-      url: /categories/javascript/
+      url: /categories/javascript
     - title: "Python"
-      url: /categories/python/
+      url: /categories/python
 
   - title: "NodeJS"
     children:
     - title: "NodeJS"
-      url: /categories/nodejs/
+      url: /categories/nodejs
 
   - title: "React"
     children:
     - title: "React"
-      url: /categories/react/
+      url: /categories/react
 
   - title: "DBMS"
     children:
     - title: "MySQL"
-      url: /categories/mysql/
+      url: /categories/mysql
 
   - title: "AWS"
     children:
     - title: "AWS"
-      url: /categories/aws/
+      url: /categories/aws
 
   - title: "Software"
     children:
     - title: "Docker"
-      url: /categories/docker/
+      url: /categories/docker
 
   - title: "CS"
     children:
     - title: "network"
-      url: /categories/network/
+      url: /categories/network
 
   - title: "Coding Test"
     children:
     - title: "programmers"
-      url: /categories/programmers/
+      url: /categories/programmers
     - title: "codekata"
-      url: /categories/codekata/
+      url: /categories/codekata
 
   - title: "etc"
     children:
+    - title: "Error"
+      url: /categories/error
     - title: "Blog"
-      url: /categories/blog/
+      url: /categories/blog
     - title: "etc"
-      url: /categories/etc/
+      url: /categories/etc

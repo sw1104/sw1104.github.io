@@ -19,11 +19,11 @@ minimal_mistakes_skin: "plum" # "default" "air", "aqua", ...
 
 # Site Settings
 locale: "ko-KR" #"en-US"
-title: "성장의 즐거움" # 상단 헤더에 보이는 블로그 명
+title: "Forever Developer 🔥" # 상단 헤더에 보이는 블로그 명
 title_separator: "&#124;"
 # title_separator: "이게뭐지"
 subtitle: # site tagline that appears below site title in masthead
-name: "Sangwoo Lee" # 블로그 닉네임 설정
+name: "상우" # 블로그 닉네임 설정
 description: "Backend Devleoper" # 블로그 설명
 url: "https://sw1104.github.io" # 블로그 URL
 baseurl: # the subpath of your site, e.g. "/blog"
@@ -99,7 +99,7 @@ analytics:
 
 # Site Author
 author:
-  name: "Sangwoo Lee" # 블로그 닉네임
+  name: "상우" # 블로그 닉네임
   avatar: "assets/images/IMG_0923.JPG" # 블로그 프로필 사진
   # bio              : "Sangwoo Lee"
   # email            : "Sangwoo Lee"
@@ -209,7 +209,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
