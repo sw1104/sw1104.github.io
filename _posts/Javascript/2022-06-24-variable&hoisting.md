@@ -7,7 +7,7 @@ categories:
 tags:
   - [Javascript, variable, hoisting, TDZ, scope]
 
-permalink: /Javascript/variable-hoisting-TDZ-scope/
+permalink: /javascript/variable-hoisting-tdz-scope/
 
 toc: true
 toc_sticky: true

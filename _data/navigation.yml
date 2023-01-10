@@ -32,8 +32,8 @@ categories:
 
   - title: "NodeJS"
     children:
-    - title: "Node.js"
-      url: /categories/node.js/
+    - title: "NodeJS"
+      url: /categories/nodejs/
 
   - title: "React"
     children:

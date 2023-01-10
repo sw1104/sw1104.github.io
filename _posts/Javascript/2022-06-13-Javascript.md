@@ -7,7 +7,7 @@ categories:
 tags:
   - [Javascript]
 
-permalink: /Javascript/Javascript/
+permalink: /javascript/
 
 toc: true
 toc_sticky: true
