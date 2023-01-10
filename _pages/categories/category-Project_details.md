@@ -1,9 +1,9 @@
 ---
-title: "Project_details"
+title: "project_details"
 layout: category
-permalink: /categories/Project_details/
+permalink: /categories/project_details/
 author_profile: true
-taxonomy: Project_details
+taxonomy: project_details
 sidebar:
     nav: "categories"
 ---

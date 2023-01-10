@@ -3,11 +3,11 @@ title: "커뮤니티 서비스 팀 프로젝트"
 excerpt: "원티드 프리온보딩 팀 프로젝트"
 
 categories:
-    - Project
+    - project
 tags:
-    - [Project, wanted]
+    - [project, wanted]
 
-permalink: /Project/wanted-1/
+permalink: /project/wanted-1/
 
 toc: true
 toc_sticky: true

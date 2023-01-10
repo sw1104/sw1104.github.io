@@ -51,12 +51,12 @@ comments: false
 
 ---
 
-# Project
+# project
 
-[MINISTER TOKEN - Corporate Internship](https://sw1104.github.io/Project/cooperation/) (2022-09-19 ~ 2022-10-13)
+[MINISTER TOKEN - Corporate Internship](https://sw1104.github.io/project/cooperation/) (2022-09-19 ~ 2022-10-13)
 
-[Wanted pre-onboarding backend course pre task](https://sw1104.github.io/Project/wanted-preonboarding/) (2022-10-11 ~ 2022-10-12)
+[Wanted pre-onboarding backend course pre task](https://sw1104.github.io/project/wanted-preonboarding/) (2022-10-11 ~ 2022-10-12)
 
-[WeNB - WeCode 2st project](https://sw1104.github.io/Project/wecode-2st/) (2022-08-29 ~ 2022-09-08)
+[WeNB - WeCode 2st project](https://sw1104.github.io/project/wecode-2st/) (2022-08-29 ~ 2022-09-08)
 
-[USOPP - WeCode 1st project](https://sw1104.github.io/Project/wecode-1st/) (2022-08-16 ~ 2022-08-26)
+[USOPP - WeCode 1st project](https://sw1104.github.io/project/wecode-1st/) (2022-08-16 ~ 2022-08-26)

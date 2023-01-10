@@ -3,11 +3,11 @@ title: "기업 인턴십 프로젝트 - 관리자 대시보드 BACKEND CODE"
 excerpt: "관리자 대시보드 파헤치기"
 
 categories:
-    - Project_details
+    - project_details
 tags:
-    - [Project, wecode]
+    - [project, wecode]
 
-permalink: /Project_details/cooperation/adminDashboard/backend
+permalink: /project_details/cooperation/adminDashboard/backend
 
 toc: true
 toc_sticky: true

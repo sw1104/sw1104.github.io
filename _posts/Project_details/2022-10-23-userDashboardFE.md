@@ -3,11 +3,11 @@ title: "기업 인턴십 프로젝트 - 유저 대시보드 FRONTEND CODE"
 excerpt: "유저 대시보드 파헤치기"
 
 categories:
-    - Project_details
+    - project_details
 tags:
-    - [Project, wecode]
+    - [project, wecode]
 
-permalink: /Project_details/cooperation/userDashboard/frontend
+permalink: /project_details/cooperation/userDashboard/frontend
 
 toc: true
 toc_sticky: true

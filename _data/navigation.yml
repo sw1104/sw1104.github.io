@@ -9,8 +9,8 @@ main:
     # - title: "GitHub"
     #   url: https://github.com/choiiis
 
-    # - title: "Projects"
-    #   url: /projects/
+    - title: "projects"
+      url: /projects/
 
     # - title: "Categories"
     #   url: /categories/
@@ -25,7 +25,7 @@ categories:
   - title: "Project"
     children:
     - title: "Project"
-      url: /categories/Project/
+      url: /categories/project/
   - title: "Coding Test"
     children:
     - title: "programmers"

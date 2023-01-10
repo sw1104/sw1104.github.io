@@ -3,11 +3,11 @@ title: "usopp 팀 프로젝트"
 excerpt: "Aesop 사이트를 참고한 팀 프로젝트"
 
 categories:
-    - Project
+    - project
 tags:
-    - [Project, wecode]
+    - [project, wecode]
 
-permalink: /Project/usopp/
+permalink: /project/usopp/
 
 toc: true
 toc_sticky: true

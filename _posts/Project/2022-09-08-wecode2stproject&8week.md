@@ -3,11 +3,11 @@ title: "WeNB 팀 프로젝트"
 excerpt: "Airbnb 사이트를 참고한 팀 프로젝트"
 
 categories:
-    - Project
+    - project
 tags:
-    - [Project, wecode]
+    - [project, wecode]
 
-permalink: /Project/wenb/
+permalink: /project/wenb/
 
 toc: true
 toc_sticky: true

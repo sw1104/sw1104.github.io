@@ -3,11 +3,11 @@ title: "패스워드 기반 게시판 서비스 API"
 excerpt: "원티드 프리온보딩 개인 프로젝트"
 
 categories:
-    - Project
+    - project
 tags:
-    - [Project, wanted]
+    - [project, wanted]
 
-permalink: /Project/wanted-3/
+permalink: /project/wanted-3/
 
 toc: true
 toc_sticky: true
@@ -59,4 +59,4 @@ last_modified_at: 2022-11-05
 
 swagger를 이용하여 API문서 작성
 
-![Alt text](../../assets/images/posts_img/Project/2022-11-05-swagger.png)
+![Alt text](../../assets/images/posts_img/project/2022-11-05-swagger.png)
