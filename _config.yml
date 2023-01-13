@@ -25,8 +25,8 @@ title_separator: "&#124;"
 subtitle: # site tagline that appears below site title in masthead
 name: "상우" # 블로그 닉네임 설정
 description: "Backend Devleoper" # 블로그 설명
-# url: "https://sw1104.github.io" # 블로그 URL
-url: "https://sangwoo.dev" # 블로그 URL
+url: "https://sw1104.github.io" # 블로그 URL
+# url: "https://sangwoo.dev" # 블로그 URL
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "sw1104/sw1104.github.io" # GitHub Repo 이름
 teaser: #
