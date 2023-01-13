@@ -3,8 +3,10 @@
    ========================================================================== */
 
 /* Colors */
-$background-color: #ffffff !default;
-$text-color: rgb(7, 7, 7) !default;
+// $background-color: #ffffff !default;
+$background-color: rgba(185, 185, 185, 0.25) !default;
+// $text-color: rgb(7, 7, 7) !default;
+$text-color: rgb(255, 255, 255) !default;
 $primary-color: #FF6C02 !default;
 
 $border-color: mix(#fff, $background-color, 20%) !default;
