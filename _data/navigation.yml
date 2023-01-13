@@ -35,7 +35,7 @@ categories:
     - title: "NodeJS"
       url: /categories/nodejs
     - title: "Express"
-      url: /category/express
+      url: /categories/express
 
   - title: "React"
     children:
@@ -79,7 +79,7 @@ categories:
   - title: "etc"
     children:
     - title: "Security"
-      url: /category/security
+      url: /categories/security
     - title: "Error"
       url: /categories/error
     - title: "Blog"
