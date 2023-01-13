@@ -19,7 +19,7 @@ comments: false
 
 # Todo List server API
 
-> 프로젝트 소개 : Todo List server API 및 배포
+> 프로젝트 소개 : Todo List server API 및 배포\
 > 개발 기간 : 2022-11-11~2022-11-15 (5일)\
 > 배포 기간 : 2022-12-17 ~ 2022-12-19 (3일)\
 > 개발 인원 : FE 1, BE 1
