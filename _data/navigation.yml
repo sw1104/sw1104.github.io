@@ -34,6 +34,8 @@ categories:
     children:
     - title: "NodeJS"
       url: /categories/nodejs
+    - title: "Express"
+      url: /category/express
 
   - title: "React"
     children:
@@ -54,21 +56,30 @@ categories:
     children:
     - title: "Docker"
       url: /categories/docker
+  
+  - title: "Web"
+    children:
+    - title: "Web"
+      url: /categories/web
 
   - title: "CS"
     children:
-    - title: "network"
+    - title: "OS"
+      url: /categories/os
+    - title: "Network"
       url: /categories/network
+    - title: "Data Structure"
+      url: /categories/data-structure
 
   - title: "Coding Test"
     children:
     - title: "programmers"
       url: /categories/programmers
-    - title: "codekata"
-      url: /categories/codekata
 
   - title: "etc"
     children:
+    - title: "Security"
+      url: /category/security
     - title: "Error"
       url: /categories/error
     - title: "Blog"
