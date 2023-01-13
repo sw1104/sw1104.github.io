@@ -16,7 +16,7 @@ comments: false
 
 # Todo List server API
 
-> 프로젝트 소개 : Todo List Server API 및 배포
+> 프로젝트 소개 : Todo List server API 및 배포
 > 개발 기간 : 2022-11-11~2022-11-15 (5일)
 > 배포 기간 : 2022-12-17 ~ 2022-12-19 (3일)
 > 개발 인원 : FE 1, BE 1
@@ -25,7 +25,7 @@ comments: false
 
 # 보스레이드 게임 server API
 
-> 프로젝트 소개 : 보스레이드 게임 Server API
+> 프로젝트 소개 : 보스레이드 게임 server API
 > 개발 기간 : 2022-11-11~2022-11-15 (5일)
 > 개발 인원 : BE 1
 
@@ -33,7 +33,7 @@ comments: false
 
 # 패스워드 기반의 게시판 server API
 
-> 프로젝트 소개 : 비밀번호를 기반으로 운영되는 게시판 Server API
+> 프로젝트 소개 : 비밀번호를 기반으로 운영되는 게시판 server API
 > 개발 기간 : 2022-11-03~2022-11-04 (2일)
 > 개발 인원 : BE 1
 
@@ -42,7 +42,7 @@ comments: false
 
 # 쇼핑몰 쿠폰 server API
 
-> 프로젝트 소개 : 이커머스 사이트의 쿠폰 관련 Server API
+> 프로젝트 소개 : 이커머스 사이트의 쿠폰 관련 server API
 > 개발 기간 : 2022-10-31~2022-11-02 (3일)
 > 개발 인원 : BE 3
 
@@ -51,7 +51,7 @@ comments: false
 
 # 커뮤니티 service API
 
-> 프로젝트 소개 : 커뮤니티 서비스 형태의 게시판 Server API
+> 프로젝트 소개 : 커뮤니티 서비스 형태의 게시판 server API
 > 개발 기간 : 2022-10-26~2022-10-28 (3일)
 > 개발 인원 : BE 4
 
