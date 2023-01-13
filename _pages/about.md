@@ -9,7 +9,7 @@ comments: false
 
 ---
 
-# [이상우](https://sw1104.github.io/memoir/wecode/bye)
+# [이상우](https://sangwoo.dev/memoir/wecode/bye)
 
 ## Backend Developer
 
@@ -20,7 +20,7 @@ comments: false
 
 ##### Github : [https://github.com/sw1104](https://github.com/sw1104)
 
-##### Blog : [https://sw1104.github.io](https://sw1104.github.io)
+##### Blog : [https://sangwoo.dev](https://sangwoo.dev)
 
 ---
 
@@ -52,6 +52,6 @@ comments: false
 
 # project
 
-[프로젝트 보러가기](https://sw1104.github.io/projects)
+[프로젝트 보러가기](https://sangwoo.dev/projects)
 
 

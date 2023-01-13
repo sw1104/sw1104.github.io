@@ -64,4 +64,4 @@ swagger를 이용하여 API문서 작성
 
 ---
 
-[프로젝트 회고록 바로가기](https://sw1104.github.io/memoir/15)
+[프로젝트 회고록 바로가기](https://sangwoo.dev/memoir/15)

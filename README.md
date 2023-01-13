@@ -5,7 +5,7 @@
 ## 🦥 `Minimal Mistakes theme customized by choiiis`
 
 📎 **블로그 바로 가기**
-[`https://sw1104.github.io/`](https://sw1104.github.io/)
+[`https://sangwoo.dev/`](https://sangwoo.dev/)
 
 ---
 
