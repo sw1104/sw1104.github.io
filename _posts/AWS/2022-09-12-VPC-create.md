@@ -7,7 +7,7 @@ categories:
 tags:
   - [AWS]
 
-permalink: /AWS/create-aws-vpc/
+permalink: /AWS/create-aws-vpc
 
 toc: true
 toc_sticky: true

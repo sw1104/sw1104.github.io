@@ -7,7 +7,7 @@ categories:
 tags:
   - [network]
 
-permalink: /network/Stateless-and-Statefull/
+permalink: /network/stateless-and-statefull
 
 toc: true
 toc_sticky: true

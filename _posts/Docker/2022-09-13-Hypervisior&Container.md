@@ -7,7 +7,7 @@ categories:
 tags:
   - [Docker]
 
-permalink: /Docker/virtualization/
+permalink: /Docker/virtualization
 
 toc: true
 toc_sticky: true

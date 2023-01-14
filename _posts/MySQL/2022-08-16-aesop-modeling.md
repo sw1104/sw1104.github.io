@@ -7,7 +7,7 @@ categories:
 tags:
     - [MySQL, ERD, wecode]
 
-permalink: /mysql/Aesop-erd/
+permalink: /mysql/aesop-erd
 
 toc: true
 toc_sticky: true

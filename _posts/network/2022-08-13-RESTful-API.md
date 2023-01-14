@@ -7,7 +7,7 @@ categories:
 tags:
   - [network]
 
-permalink: /network/restful/
+permalink: /network/restful
 
 toc: true
 toc_sticky: true

@@ -7,7 +7,7 @@ categories:
 tags:
   - [AWS]
 
-permalink: /AWS/aws-ec2-docker-connection/
+permalink: /AWS/aws-ec2-docker-connection
 
 toc: true
 toc_sticky: true

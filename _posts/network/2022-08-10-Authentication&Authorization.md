@@ -7,7 +7,7 @@ categories:
 tags:
   - [network]
 
-permalink: /network/Authentication-and-Authorization/
+permalink: /network/Authentication-and-Authorization
 
 toc: true
 toc_sticky: true

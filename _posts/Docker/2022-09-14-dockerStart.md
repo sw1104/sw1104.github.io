@@ -7,7 +7,7 @@ categories:
 tags:
   - [Docker]
 
-permalink: /Docker/start/
+permalink: /Docker/start
 
 toc: true
 toc_sticky: true

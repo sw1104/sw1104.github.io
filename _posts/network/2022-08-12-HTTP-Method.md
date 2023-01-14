@@ -7,7 +7,7 @@ categories:
 tags:
   - [network]
 
-permalink: /network/http-method/
+permalink: /network/http-method
 
 toc: true
 toc_sticky: true

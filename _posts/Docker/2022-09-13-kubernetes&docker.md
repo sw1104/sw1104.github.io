@@ -7,7 +7,7 @@ categories:
 tags:
   - [Docker]
 
-permalink: /Docker/docker-and-kubernetes/
+permalink: /Docker/docker-and-kubernetes
 
 toc: true
 toc_sticky: true

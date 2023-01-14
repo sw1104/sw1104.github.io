@@ -7,7 +7,7 @@ categories:
 tags:
   - [AWS]
 
-permalink: /aws/json-server/
+permalink: /aws/json-server
 
 toc: true
 toc_sticky: true
