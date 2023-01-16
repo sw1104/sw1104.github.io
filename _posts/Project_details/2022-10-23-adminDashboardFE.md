@@ -44,10 +44,10 @@ useEffect(() => {
             icon="weekend"
             title="전체 토큰 갯수"
             count={fullToken}
-            percentage={{
+            percentage={%raw%}{{
                 color: "success",
                 label: "SangWoo & JaeHa"
-            }}
+            }}{%endraw%}
         />
     </MDBox>
 </Grid>;
@@ -83,10 +83,10 @@ useEffect(() => {
             icon="store"
             title="발행 토큰 갯수"
             count={issuedToken}
-            percentage={{
+            percentage={%raw%}{{
                 color: "success",
                 label: "Make DashBoard"
-            }}
+            }}{%endraw%}
         />
     </MDBox>
 </Grid>;
@@ -139,10 +139,10 @@ useEffect(() => {
             icon="leaderboard"
             title="남은 토큰 갯수"
             count={remainToken}
-            percentage={{
+            percentage={%raw%}{{
                 color: "success",
                 label: "3rd SIDE PROJECT"
-            }}
+            }}{%endraw%}
         />
     </MDBox>
 </Grid>;
@@ -176,10 +176,10 @@ useEffect(() => {
             icon="person_add"
             title="유저 수"
             count={member}
-            percentage={{
+            percentage={%raw%}{{
                 color: "success",
                 label: "Just updated"
-            }}
+            }}{%endraw%}
         />
     </MDBox>
 </Grid>;
@@ -282,7 +282,7 @@ useEffect(() => {
 }, []);
 
 return (
-    <Card sx={{ height: "100%" }}>
+    <Card sx={%raw%}{{ height: "100%" }}{%endraw%}>
         <MDBox pt={3} px={3}>
             <MDTypography variant="h6" fontWeight="medium">
                 토큰 최신 발행 이력
