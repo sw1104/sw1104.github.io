@@ -18,7 +18,7 @@ last_modified_at: 2023-01-19
 
 # 연결 리스트(Linked List)
 
-![Alt text](../../assets/images/posts_img/dataStructure/2023-01-17-linked1.png)
+![Alt text](../../assets/images/posts_img/dataStructure/2023-01-19-linked1.png)
 
 연결리스트는 각 요소를 포인터로 연결하여 관리하는 선형 자료구조이다. 각 요소는 노드라고 부르는데 데이터 영역과 포인터 영역으로 구성되어진다.
 
@@ -46,20 +46,20 @@ last_modified_at: 2023-01-19
 
 Head에서 Tail까지 단방향으로 이어지는 연결 리스트로 가장 단순한 형태인 연결 리스트이다.
 
-![Alt text](../../assets/images/posts_img/dataStructure/2023-01-17-linked2.png)
+![Alt text](../../assets/images/posts_img/dataStructure/2023-01-19-linked2.png)
 
 
 ## Doubly Linked List
 
 양방향으로 이어지는 연결 리스트로 Singly보다 자료구조의 크기가 더 크다.
 
-![Alt text](../../assets/images/posts_img/dataStructure/2023-01-17-linked3.png)
+![Alt text](../../assets/images/posts_img/dataStructure/2023-01-19-linked3.png)
 
 ## Circular Linked List
 
 Singly 혹은 Doubly에서 Tail이 Head로 연결되는 연결 리스트로 메모리를 아껴쓸 수 있다. 원형 큐 등을 만들 때 사용된다.
 
-![Alt text](../../assets/images/posts_img/dataStructure/2023-01-17-linked4.png)
+![Alt text](../../assets/images/posts_img/dataStructure/2023-01-19-linked4.png)
 
 
 ## Javascript 예제 코드 
