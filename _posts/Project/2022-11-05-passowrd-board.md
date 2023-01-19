@@ -59,7 +59,7 @@ last_modified_at: 2022-11-05
 
 swagger를 이용하여 API문서 작성
 
-![Alt text](../../assets/images/posts_img/project/2022-11-05-swagger.png)
+![Alt text](../../assets/images/posts_img/Project/2022-11-05-swagger.png)
 
 
 ---
