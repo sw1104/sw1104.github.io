@@ -6,7 +6,8 @@
   <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</label>
   <ul class="nav__items">
     <li>
-      <span class="nav__total"> 😍 Total Posts: {{site.posts | size}}</span>
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsangwoo.dev&count_bg=%23ADB4A7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></img>
+      <div class="nav__total"> 😍 Total Posts: {{site.posts | size}}</div>
     </li>
     
     {% for nav in navigation %}
@@ -31,9 +32,6 @@
           {% endfor %}
         </ul>
         {% endif %}
-      </li>
-      <li>
-        <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsangwoo.dev&count_bg=%23ADB4A7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
       </li>
     {% endfor %}
   </ul>
