@@ -1,17 +1,11 @@
 ---
 title: "Project"
 permalink: /projects
-layout: single
+layout: gallery
 comments: false
 ---
 
 ---
-
-
-<details open>
-  <summary>이 블로그의 닉네임?</summary>
-  poeun. 열린상태로 보여준다.
-</details>
 
 # CatBow 동영상을 이미지로 추출하는 사이트 server
 
