@@ -1,20 +1,12 @@
 ---
 title: "Project"
-layout: gallery
-permalink: /project
-comments: false
----
-
-
-<!-- ---
-title: "Project"
 permalink: /projects
-layout: single
+layout: gallery
 comments: false
---- -->
-
 ---
+
 <!-- 
+---
 # CatBow 동영상을 이미지로 추출하는 사이트 server
 
 > 프로젝트 소개 : CatBow 라이브러리에 필요한 이미지를 얻기 위해 동영상을 이미지로 추출하는 사이트의 server 구현 및 배포\
