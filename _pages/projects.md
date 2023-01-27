@@ -5,7 +5,6 @@ layout: gallery
 comments: false
 ---
 
-<!-- 
 ---
 # CatBow 동영상을 이미지로 추출하는 사이트 server
 
@@ -107,4 +106,4 @@ comments: false
 
 [프로젝트 보러가기](https://sangwoo.dev/projects/usopp)
 
---- -->
+---
