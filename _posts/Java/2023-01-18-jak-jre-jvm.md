@@ -1,5 +1,5 @@
 ---
-title: "JDK, JRE, JVM"
+title: "[JAVA] JDK, JRE, JVM"
 excerpt: "Java를 공부하기 전에 알아두면 좋은 것 - 1"
 
 categories:
