@@ -1,6 +1,6 @@
 ---
-title: "[JAVA] Method Overloading"
-excerpt: "method overloading"
+title: "[JAVA] 메소드 오버로딩"
+excerpt: "자바에서 메소드 오버로딩(method overloading)에 대해"
 
 categories:
   - Java
