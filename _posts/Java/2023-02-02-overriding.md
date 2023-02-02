@@ -40,4 +40,8 @@ class FactoryCam extends Camera {
         System.out.println("화재가 일어나면 사진 촬영한다.");
     }
 }
-```                                                                                                                             
+```
+
+# 참조
+
+[TCP SCHOOL](http://www.tcpschool.com/java/java_inheritance_overriding)
