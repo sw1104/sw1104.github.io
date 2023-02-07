@@ -42,6 +42,6 @@ class FactoryCam extends Camera {
 }
 ```
 
-# 참조
+# 참고
 
 [TCP SCHOOL](http://www.tcpschool.com/java/java_inheritance_overriding)

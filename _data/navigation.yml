@@ -58,7 +58,8 @@ categories:
     children:
     - title: "Docker"
       url: /categories/docker
-  
+    - title: "Nginx"
+      url: categories/nginx
   - title: "Web"
     children:
     - title: "Web"

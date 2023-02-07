@@ -71,6 +71,6 @@ public class Overloading {
 }
 ```
 
-# 참조
+# 참고
 
 [TCP SCHOOL](http://www.tcpschool.com/java/java_usingMethod_overloading)
