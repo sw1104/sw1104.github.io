@@ -5,7 +5,7 @@ excerpt: "Spring으로 프로젝트를 진행하기 위해 초기 세팅을 해�
 categories:
   - Spring
 tags:
-  - [Java, Spring]
+  - [Spring]
 
 permalink: /spring/initializer
 
@@ -60,7 +60,7 @@ Spring3버전을 선택하게 되면 아래와 같은 에러를 마주하게 된
 
 그리고 아래와 같이 작성을 해준다. 먼저 MySQL 관련 샘플은 다음과 같다.
 
-```java
+```
 // MySQL 설정
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver 
 
@@ -135,4 +135,5 @@ public class BoardController {
 # 참고
 
 [유튜브 한코딩 - [스트링 부트] 게시판 무작정 따라하기](https://youtu.be/6CJ6akFElPc)
+
 [[Spring] DB(MySQL) 연결](https://velog.io/@sians0209/Spring-Spring-gradle-MySQL-JPA-%EC%97%B0%EB%8F%99)
