@@ -33,14 +33,14 @@ categories:
       url: /categories/python
 
   - title: "Framework"
-      children:
+    children:
     - title: "Spring"
       url: /categories/spring
     - title: "Express"
       url: /categories/express
 
   - title: "Library"
-      children:
+    children:
     - title: "React"
       url: /categories/react
 
