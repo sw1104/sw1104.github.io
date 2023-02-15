@@ -7,7 +7,7 @@ categories:
 tags:
   - [NodeJS]
 
-permalink: /nodejs/project-reservation
+permalink: /javascript/project-reservation
 
 toc: true
 toc_sticky: true

@@ -32,15 +32,15 @@ categories:
     - title: "Python"
       url: /categories/python
 
-  - title: "NodeJS"
-    children:
-    - title: "NodeJS"
-      url: /categories/nodejs
+  - title: "Framework"
+      children:
+    - title: "Spring"
+      url: /categories/spring
     - title: "Express"
       url: /categories/express
 
-  - title: "React"
-    children:
+  - title: "Library"
+      children:
     - title: "React"
       url: /categories/react
 
@@ -60,6 +60,7 @@ categories:
       url: /categories/docker
     - title: "Nginx"
       url: categories/nginx
+
   - title: "Web"
     children:
     - title: "Web"
