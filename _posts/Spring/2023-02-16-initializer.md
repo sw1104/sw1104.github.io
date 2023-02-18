@@ -1,6 +1,6 @@
 ---
 title: "[SPRING] 프로젝트 초기 세팅"
-excerpt: "Spring으로 프로젝트를 진행하기 위해 초기 세팅을 해보자"
+excerpt: "Spring Boot로 프로젝트를 진행하기 위해 초기 세팅을 해보자"
 
 categories:
   - Spring
@@ -16,13 +16,9 @@ date: 2023-02-16
 last_modified_at: 2023-02-16
 ---
 
-# Spring initializr란?
-
-Spring에서 제공하는 Spring initializr 웹 도구를 이용하여 프로젝트를 만드는 방법이다.
-
 # 프로젝트 생성하기
 
-[Spring 프로젝트 생성 사이트](https://start.spring.io/)에 접속하거나 IntelliJ에서 생성할 수 있다. 생성 항목은 똑같기 때문에 나는 IntelliJ에서 생성하겠다.
+[Spring Boot 프로젝트 생성 사이트](https://start.spring.io/)에 접속하거나 IntelliJ에서 생성할 수 있다. 생성 항목은 똑같기 때문에 나는 IntelliJ에서 생성하겠다.
 
 Java 버전은 8버전을 사용할 것이고 빌드 툴은 Gradle을 사용한다.
 
@@ -34,11 +30,11 @@ Java 버전은 8버전을 사용할 것이고 빌드 툴은 Gradle을 사용한�
 
 `Spring Web`, `Spring Data JPA`, `MySQL Driver`, `Thymeleaf`, `Lombok`
 
-그리고 Spring의 버전은 먼저 `snapshot`이 써있는건 아직 개발 중 이기 때문에 2버전을 선택해준다. 3.0.2가 최신이긴 하지만 Java8은 Spring3에서는 돌아가지 않기 때문에 2버전을 선택하고 생성해준다.
+그리고 Spring Boot의 버전은 먼저 `snapshot`이 써있는건 아직 개발 중 이기 때문에 2버전을 선택해준다. 3.0.2가 최신이긴 하지만 Java8은 Spring Boot3에서는 돌아가지 않기 때문에 2버전을 선택하고 생성해준다.
 
 ![Alt text](../../assets/images/posts_img/Spring/2023-02-16-init2.png)
 
-Spring3버전을 선택하게 되면 아래와 같은 에러를 마주하게 된다.
+Spring Boot3버전을 선택하게 되면 아래와 같은 에러를 마주하게 된다.
 
 ![Alt text](../../assets/images/posts_img/Spring/2023-02-16-init3.png)
 
