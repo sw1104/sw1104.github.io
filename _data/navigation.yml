@@ -25,10 +25,12 @@ categories:
 
   - title: "Language"
     children:
-    - title: "Java"
-      url: /categories/java
     - title: "Javascript"
       url: /categories/javascript
+    - title: "TypeScript"
+      url: /categories/TypeScript
+    - title: "Java"
+      url: /categories/java
     - title: "Python"
       url: /categories/python
 
