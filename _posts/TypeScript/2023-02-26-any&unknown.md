@@ -42,5 +42,7 @@ cNum = aUnknown; // Type 'unknown' is not assignable to type 'number'.
 `unknown`가 등장한 이유는 `any`처럼 어떤 타입의 값이든 할당할 수 있지만 실제로 사용할 때는 개발자에게 타입을 체킹하도록 만들기 위한 타입이 필요하여 등장하게 되었다. 예를 들어 사용자로부터 입력을 받거나 잘 알려지지 않은 외부 api를 사용하는 등 실제 어떤 값이 올 지 모를 상황에서 처음 어떠한 값이든 할당할 수 있지만 그 이후에 그 값을 사용할 때에는 타입을 체크해서 안전하게 사용하기 위해 쓰기 위함이다.
 
 # 참고
+
 [eunji Blog : 타입스크립트 any, unknown](https://0119eunji.tistory.com/114)
+
 [Roseline Blog : [Typescript] unknown vs any type](https://roseline.oopy.io/dev/typescript-unknown-vs-any-type)
