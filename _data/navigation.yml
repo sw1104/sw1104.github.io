@@ -6,6 +6,9 @@ main:
     - title: "Project"
       url: /projects
 
+    - title: "회고글"
+      url: /memoir
+
     # - title: "GitHub"
     #   url: https://github.com/choiiis
 
