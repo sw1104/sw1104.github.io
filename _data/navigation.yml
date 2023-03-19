@@ -21,11 +21,6 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "Life"
-    children:
-    - title: "memoir"
-      url: /categories/memoir
-
   - title: "Language"
     children:
     - title: "Javascript"
