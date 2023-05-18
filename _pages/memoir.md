@@ -8,6 +8,21 @@ comments: false
 > 매주 회고를 통해 성장을 기록하고 성공적인 요인들을 모아 나만의 노하우로 만들어 많은 동료 개발자들에게 좋은 방향성을 제시해 줄 수 있는 개발자가 되자.
 
 ---
+[개발자 인생 43주차 회고록](https://www.sangwoo.dev/memoir/43)
+
+[개발자 인생 42주차 회고록](https://www.sangwoo.dev/memoir/42)
+
+[개발자 인생 41주차 회고록](https://www.sangwoo.dev/memoir/41)
+
+[개발자 인생 40주차 회고록](https://www.sangwoo.dev/memoir/40)
+
+[개발자 인생 39주차 회고록](https://www.sangwoo.dev/memoir/39)
+
+[개발자 인생 38주차 회고록](https://www.sangwoo.dev/memoir/38)
+
+[개발자 인생 37주차 회고록](https://www.sangwoo.dev/memoir/37)
+
+[개발자 인생 36주차 회고록](https://www.sangwoo.dev/memoir/36)
 
 [개발자 인생 35주차 회고록](https://www.sangwoo.dev/memoir/35)
 
