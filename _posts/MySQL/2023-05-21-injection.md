@@ -12,6 +12,8 @@ permalink: /mysql/injection
 toc: true
 toc_sticky: true
 
+published : false
+
 date: 2023-05-21
 last_modified_at: 2023-05-21
 ---
