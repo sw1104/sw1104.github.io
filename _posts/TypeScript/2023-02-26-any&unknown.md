@@ -12,6 +12,8 @@ permalink: /typescript/any&unknown
 toc: true
 toc_sticky: true
 
+published : false
+
 date: 2023-02-26
 last_modified_at: 2023-02-26
 ---
