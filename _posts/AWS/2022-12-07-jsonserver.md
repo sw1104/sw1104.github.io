@@ -3,9 +3,9 @@ title: "json server EC2 배포"
 excerpt: "json server를 AWS EC2에 배포해보기"
 
 categories:
-  - AWS
+  - aws
 tags:
-  - [AWS]
+  - [aws]
 
 permalink: /aws/json-server
 

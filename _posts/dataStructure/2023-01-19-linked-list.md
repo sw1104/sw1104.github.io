@@ -3,11 +3,11 @@ title: "연결리스트"
 excerpt: "Singly, Doubly, Circular"
 
 categories:
-  - Data Structure
+  - data structure
 tags:
-  - [DataStructure]
+  - [data structure]
 
-permalink: /data-structure/linked-list
+permalink: /ds/linked-list
 
 toc: true
 toc_sticky: true

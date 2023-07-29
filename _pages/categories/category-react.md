@@ -1,9 +1,9 @@
 ---
-title: "security"
+title: "react"
 layout: category
-permalink: /categories/security
+permalink: /categories/react
 author_profile: true
-taxonomy: security
+taxonomy: react
 sidebar:
     nav: "categories"
 ---

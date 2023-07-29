@@ -3,12 +3,6 @@ main:
     - title: "About"
       url: /about
 
-    - title: "Project"
-      url: /projects
-
-    - title: "회고글"
-      url: /memoir
-
     # - title: "GitHub"
     #   url: https://github.com/choiiis
 
@@ -21,72 +15,76 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
+  - title: "회고록"
+    url: categories/memoir
+  - title: "project"
+    url: categories/project
   - title: "Language"
     children:
-    - title: "Javascript"
+    - title: "javascript"
       url: /categories/javascript
-    - title: "TypeScript"
-      url: /categories/TypeScript
-    - title: "Java"
+    - title: "typescript"
+      url: /categories/typescript
+    - title: "java"
       url: /categories/java
-    - title: "Python"
+    - title: "python"
       url: /categories/python
 
   - title: "Framework"
     children:
-    - title: "Spring"
+    - title: "spring"
       url: /categories/spring
-    - title: "Express"
+    - title: "express"
       url: /categories/express
 
   - title: "Library"
     children:
-    - title: "React"
+    - title: "react"
       url: /categories/react
 
-  - title: "DBMS"
+  - title: "db"
     children:
-    - title: "MySQL"
+    - title: "mysql"
       url: /categories/mysql
 
-  - title: "AWS"
+  - title: "aws"
     children:
-    - title: "AWS"
+    - title: "aws"
       url: /categories/aws
 
-  - title: "Software"
+  - title: "software"
     children:
-    - title: "Docker"
+    - title: "docker"
       url: /categories/docker
-    - title: "Nginx"
+    - title: "nginx"
       url: categories/nginx
 
-  - title: "Web"
+  - title: "web"
     children:
-    - title: "Web"
+    - title: "web"
       url: /categories/web
 
-  - title: "CS"
+  - title: "cs"
     children:
-    - title: "OS"
+    - title: "os"
       url: /categories/os
-    - title: "Network"
+    - title: "network"
       url: /categories/network
-    - title: "Data Structure"
+    - title: "data structure"
       url: /categories/data-structure
 
-  - title: "Coding Test"
+  - title: "cote"
     children:
     - title: "programmers"
       url: /categories/programmers
 
   - title: "etc"
     children:
-    - title: "Security"
+    - title: "security"
       url: /categories/security
-    - title: "Error"
+    - title: "error"
       url: /categories/error
-    - title: "Blog"
+    - title: "blog"
       url: /categories/blog
     - title: "etc"
       url: /categories/etc

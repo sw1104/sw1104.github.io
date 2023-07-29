@@ -3,7 +3,7 @@ title: "Authentication & Authorization "
 excerpt: "Authentication & Authorization에 대해.."
 
 categories:
-  - Network
+  - network
 tags:
   - [network]
 

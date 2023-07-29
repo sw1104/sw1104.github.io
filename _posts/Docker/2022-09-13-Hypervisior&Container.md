@@ -3,11 +3,11 @@ title: "가상화 운영방식"
 excerpt: "도커를 알기전에 하이퍼바이저 가상화와 컨테이너 가상화에 대해서 먼저 알아보자."
 
 categories:
-  - Docker
+  - docker
 tags:
-  - [Docker]
+  - [docker]
 
-permalink: /Docker/virtualization
+permalink: /docker/virtualization
 
 toc: true
 toc_sticky: true

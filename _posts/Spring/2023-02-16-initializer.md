@@ -3,9 +3,9 @@ title: "[SPRING] 프로젝트 초기 세팅"
 excerpt: "Spring Boot로 프로젝트를 진행하기 위해 초기 세팅을 해보자"
 
 categories:
-  - Spring
+  - spring
 tags:
-  - [Spring]
+  - [spring]
 
 permalink: /spring/initializer
 

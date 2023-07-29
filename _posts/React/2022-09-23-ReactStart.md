@@ -2,10 +2,10 @@
 title: "React 맛보기"
 excerpt: "벨로퍼트로 리액트 맛보기..."
 categories:
-    - React
+    - react
 
 tags:
-    - [React]
+    - [react]
 
 permalink: /react/start/3
 

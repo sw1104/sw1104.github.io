@@ -1,9 +1,9 @@
 ---
-title: "Error"
+title: "error"
 layout: category
 permalink: /categories/error
 author_profile: true
-taxonomy: Error
+taxonomy: error
 sidebar:
     nav: "categories"
 ---

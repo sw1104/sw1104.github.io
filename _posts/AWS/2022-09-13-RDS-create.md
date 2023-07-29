@@ -3,11 +3,11 @@ title: "AWS RDS 생성"
 excerpt: "배포를 위해 RDS 생성"
 
 categories:
-  - AWS
+  - aws
 tags:
-  - [AWS]
+  - [aws]
 
-permalink: /AWS/create-aws-rds
+permalink: /aws/create-aws-rds
 
 toc: true
 toc_sticky: true

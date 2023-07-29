@@ -3,9 +3,9 @@ title: "[Error] upstream prematurely closed connection while reading response he
 excerpt: "upstream prematurely closed connection"
 
 categories:
-    - Error
+    - error
 tags:
-    - [Error]
+    - [error]
 
 permalink: /error/3
 

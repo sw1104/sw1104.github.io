@@ -1,9 +1,9 @@
 ---
-title: "security"
+title: "회고록"
 layout: category
-permalink: /categories/security
+permalink: /categories/memoir
 author_profile: true
-taxonomy: security
+taxonomy: memoir
 sidebar:
     nav: "categories"
 ---

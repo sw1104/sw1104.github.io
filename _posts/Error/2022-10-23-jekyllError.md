@@ -3,9 +3,9 @@ title: "[Jekyll] Liquid Exception: Liquid syntax error"
 excerpt: "깃허브 Jekyll 블로그 Liquid syntax error 해결"
 
 categories:
-    - Error
+    - error
 tags:
-    - [Error]
+    - [error]
 
 permalink: /error/1
 

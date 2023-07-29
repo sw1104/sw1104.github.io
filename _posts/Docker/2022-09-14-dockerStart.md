@@ -3,11 +3,11 @@ title: "도커 한번 써보자"
 excerpt: "도커를 써보자"
 
 categories:
-  - Docker
+  - docker
 tags:
-  - [Docker]
+  - [docker]
 
-permalink: /Docker/start
+permalink: /docker/start
 
 toc: true
 toc_sticky: true

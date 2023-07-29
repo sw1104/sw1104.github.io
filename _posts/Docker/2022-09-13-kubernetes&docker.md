@@ -3,11 +3,11 @@ title: "도커와 쿠버네티스"
 excerpt: "도커란 무엇인가? 그리고 쿠버네티스?"
 
 categories:
-  - Docker
+  - docker
 tags:
-  - [Docker]
+  - [docker]
 
-permalink: /Docker/docker-and-kubernetes
+permalink: /docker/docker-and-kubernetes
 
 toc: true
 toc_sticky: true

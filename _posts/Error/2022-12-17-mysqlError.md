@@ -3,9 +3,9 @@ title: "[Error] ubuntu mysqlclient 설치 error: subprocess-exited-with-error, p
 excerpt: "subprocess-exited-with-error, python setup.py egg_info did not run successfully."
 
 categories:
-    - Error
+    - error
 tags:
-    - [Error]
+    - [error]
 
 permalink: /error/7
 

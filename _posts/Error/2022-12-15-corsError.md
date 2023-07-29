@@ -4,9 +4,9 @@ excerpt: "has been blocked by CORS policy: Response to preflight request doesn't
 No 'Access-Control-Allow-Origin' header is present on the requested resource."
 
 categories:
-    - Error
+    - error
 tags:
-    - [Error]
+    - [error]
 
 permalink: /error/4
 

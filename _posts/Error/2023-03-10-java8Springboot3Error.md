@@ -3,9 +3,9 @@ title: "[Error] Could not resolve org.springframework.boot:spring-boot-gradle-pl
 excerpt: "자바8과 스프링부트3 에러"
 
 categories:
-    - Error
+    - error
 tags:
-    - [Error]
+    - [error]
 
 permalink: /error/java-spring-boot-version-error
 

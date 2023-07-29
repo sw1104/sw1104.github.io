@@ -1,9 +1,9 @@
 ---
-title: "MySQL"
+title: "mysql"
 layout: category
 permalink: /categories/mysql
 author_profile: true
-taxonomy: MySQL
+taxonomy: mysql
 sidebar:
     nav: "categories"
 ---

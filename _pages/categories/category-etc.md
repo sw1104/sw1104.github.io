@@ -3,7 +3,7 @@ title: "etc"
 layout: category
 permalink: /categories/etc
 author_profile: true
-taxonomy: Etc
+taxonomy: etc
 sidebar:
     nav: "categories"
 ---

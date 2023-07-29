@@ -3,9 +3,9 @@ title: "React??"
 excerpt: "리액트는 자바스크립트 문법을 그대로 활용하기 때문에 자연스레 자바스크.."
 
 categories:
-    - React
+    - react
 tags:
-    - [React]
+    - [react]
 
 permalink: /react/start/1
 

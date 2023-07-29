@@ -3,11 +3,11 @@ title: "도커 설치"
 excerpt: "도커를 설치하자"
 
 categories:
-  - Docker
+  - docker
 tags:
-  - [Docker]
+  - [docker]
 
-permalink: /Docker/setup
+permalink: /docker/setup
 
 toc: true
 toc_sticky: true

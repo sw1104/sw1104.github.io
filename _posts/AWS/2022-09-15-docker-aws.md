@@ -3,11 +3,11 @@ title: "AWS EC2에서 Docker를 이용해보자"
 excerpt: "Docker를 이용한 AWS 실습"
 
 categories:
-  - AWS
+  - aws
 tags:
-  - [AWS]
+  - [aws]
 
-permalink: /AWS/aws-ec2-docker-connection
+permalink: /aws/aws-ec2-docker-connection
 
 toc: true
 toc_sticky: true

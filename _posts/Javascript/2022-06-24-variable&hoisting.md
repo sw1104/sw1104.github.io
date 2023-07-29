@@ -3,9 +3,9 @@ title: "변수와 호이스팅, TDZ, scope"
 excerpt: "Javascript Variable"
 
 categories:
-  - Javascript
+  - javascript
 tags:
-  - [Javascript, variable, hoisting, TDZ, scope]
+  - [javascript, variable, hoisting, TDZ, scope]
 
 permalink: /javascript/variable-hoisting-tdz-scope
 

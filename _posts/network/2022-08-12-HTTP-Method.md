@@ -3,7 +3,7 @@ title: "HTTP Method"
 excerpt: "HTTP Method에 대해.."
 
 categories:
-  - Network
+  - network
 tags:
   - [network]
 

@@ -3,9 +3,9 @@ title: "Javascript"
 excerpt: "Javascript에 대해"
 
 categories:
-  - Javascript
+  - javascript
 tags:
-  - [Javascript]
+  - [javascript]
 
 permalink: /javascript
 

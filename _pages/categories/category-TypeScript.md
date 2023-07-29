@@ -1,9 +1,9 @@
 ---
-title: "TypeScript"
+title: "typescript"
 layout: category
 permalink: /categories/typescript
 author_profile: true
-taxonomy: TypeScript
+taxonomy: typescript
 sidebar:
     nav: "categories"
 ---

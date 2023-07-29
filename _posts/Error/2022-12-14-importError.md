@@ -3,9 +3,9 @@ title: "[Error] ImportError: libGL.so.1: cannot open shared object file: No such
 excerpt: "ImportError: libGL.so.1: cannot open shared object file: No such file or directory"
 
 categories:
-    - Error
+    - error
 tags:
-    - [Error]
+    - [error]
 
 permalink: /error/2
 

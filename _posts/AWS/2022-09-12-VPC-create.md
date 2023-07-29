@@ -3,11 +3,11 @@ title: "AWS VPC 생성"
 excerpt: "배포 시작하자"
 
 categories:
-  - AWS
+  - aws
 tags:
-  - [AWS]
+  - [aws]
 
-permalink: /AWS/create-aws-vpc
+permalink: /aws/create-aws-vpc
 
 toc: true
 toc_sticky: true

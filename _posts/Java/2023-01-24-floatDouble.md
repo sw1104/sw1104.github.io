@@ -3,9 +3,9 @@ title: "[Java] float과 double의 차이"
 excerpt: "float과 double의 차이"
 
 categories:
-  - Java
+  - java
 tags:
-  - [Java]
+  - [java]
 
 permalink: /java/float-double
 

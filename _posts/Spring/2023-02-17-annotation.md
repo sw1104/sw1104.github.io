@@ -3,9 +3,9 @@ title: "[SPRING] Annotation(어노테이션) 정리 - 계속 추가"
 excerpt: "자주 사용되는 annotation 정리"
 
 categories:
-  - Spring
+  - spring
 tags:
-  - [Spring, Annotation]
+  - [spring, Annotation]
 
 permalink: /spring/annotation
 

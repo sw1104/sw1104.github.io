@@ -3,9 +3,9 @@ title: "[JAVA] 메소드 오버라이딩"
 excerpt: "자바에서 메소드 오버라이딩(method overriding)에 대해"
 
 categories:
-  - Java
+  - java
 tags:
-  - [Java]
+  - [java]
 
 permalink: /java/overriding
 

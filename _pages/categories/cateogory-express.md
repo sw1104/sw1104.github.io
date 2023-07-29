@@ -1,9 +1,9 @@
 ---
-title: "Express"
+title: "express"
 layout: category
 permalink: /categories/express
 author_profile: true
-taxonomy: Express
+taxonomy: express
 sidebar:
     nav: "categories"
 ---

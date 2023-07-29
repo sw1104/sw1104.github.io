@@ -1,9 +1,9 @@
 ---
-title: "Spring"
+title: "spring"
 layout: category
 permalink: /categories/spring
 author_profile: true
-taxonomy: Spring
+taxonomy: spring
 sidebar:
     nav: "categories"
 ---

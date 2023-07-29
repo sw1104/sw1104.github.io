@@ -1,9 +1,9 @@
 ---
-title: "Nginx"
+title: "nginx"
 layout: category
 permalink: /categories/nginx
 author_profile: true
-taxonomy: Nginx
+taxonomy: nginx
 sidebar:
     nav: "categories"
 ---

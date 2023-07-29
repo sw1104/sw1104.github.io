@@ -3,9 +3,9 @@ title: "[TypeScript] any와 unknown"
 excerpt: "TypeScript any와 unknown에 대해"
 
 categories:
-  - TypeScript
+  - typescript
 tags:
-  - [TypeScript]
+  - [typescript]
 
 permalink: /typescript/any&unknown
 

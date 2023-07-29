@@ -3,9 +3,9 @@ title: "[Error] 413 client intended to send too large body:"
 excerpt: "Nginx 용량 초과 에러"
 
 categories:
-    - Error
+    - error
 tags:
-    - [Error]
+    - [error]
 
 permalink: /error/8
 

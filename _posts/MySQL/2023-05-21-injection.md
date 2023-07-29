@@ -3,9 +3,9 @@ title: "SQL Injection"
 excerpt: "SQL Injection 공격에 대해서"
 
 categories:
-    - MySQL
+    - mysql
 tags:
-    - [MySQL]
+    - [mysql]
 
 permalink: /mysql/injection
 

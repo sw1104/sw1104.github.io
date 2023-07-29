@@ -1,9 +1,9 @@
 ---
-title: "CodeKata"
+title: "codekata"
 layout: category
 permalink: /categories/codekata
 author_profile: true
-taxonomy: CodeKata
+taxonomy: codekata
 sidebar:
   nav: "categories"
 ---
